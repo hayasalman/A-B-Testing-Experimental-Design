@@ -34,7 +34,8 @@ to determine which is more effective (depending on a specific metric).
     
   - **Design the experiment.**
  
-  Before split the control and treatment groups which by the way done use random sampling to ensure that eliminate bias as we want the results of A/B testing to be representative of the entire population, we should take in consideration a few things:
+  Before splitting the control and treatment groups which by the way use random sampling to ensure that we eliminate bias in which the results of A/B testing will be representative of the entire  
+  population. It's important when we designing our experiment to consider a few things :
 
   **The units of diversion.**
       
@@ -69,14 +70,26 @@ to determine which is more effective (depending on a specific metric).
 
   - **Define the hypothesis.**
  
-  Before we run any A/B test, we need to have a clear and specific hypothesis about what we want to test and why. In A/B testing, the null hypothesis (H0) states that there is no difference between the control and treatment groups,
-  and observed results are purely by chance. The alternative hypothesis (Ha) states that there is a significant difference between the control and test treatment groups.
-  
+  Before we run any A/B test, we need to have a clear and specific hypothesis about what we want to test and why. In A/B testing, the null hypothesis (H0) states that there is no difference between 
+  the control and treatment groups, and observed results are purely by chance. The alternative hypothesis (Ha) states that there is a significant difference between the control and test treatment 
+  groups.
 
+  - **Run the experiment**
+
+    We should run your experiment long enough until we reach the desired sample size and duration, and avoid making any changes or interruptions during the experiment.
+    
   - **Analyzing the results**.
 
-  After conduct A/B test and collect the data , it is important to analyze the results of the A/B testing carefully and to use statistical techniques to determine whether the results are statistically significant.
+  After run the experiment and collect the data , it is important to analyze the results of the A/B testing carefully and to use statistical techniques to determine whether the results are 
+  statistically significant. We should also look for any patterns, trends, or anomalies in the data that may explain the results.
 
   - **Draw valid conclusions.**
 
-    
+  To draw valid conclusions from the  results and decide what actions to take. We should compare the results with our hypothesis and see if they support or reject it. And we ensure that our final 
+  result doesn't skew by the impact of Novelty Effect and Change Aversion in which it hurts the validity of the test result. We should also consider the practical implications and limitations of 
+  the test, such as :  the cost, time , and impact of implementing the winning version.
+
+  ## Business Insights
+
+- 
+  
