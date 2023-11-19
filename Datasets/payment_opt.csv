@@ -1,0 +1,2007 @@
+id,group,page,payment_opt,transacions,revenue
+11468,control,old page,PayPal,3,251
+12290,control,old page,Cash On Delivery (COD),4,1052.5
+20679,treatment,new page,Apple Pay,6,3529.5
+21838,treatment,new page,Apple Pay,5,3810.5
+14336,control,old page,Cash On Delivery (COD),3,525.5
+14776,control,old page,PayPal,3,801.5
+16407,control,old page,Cash On Delivery (COD),2,767
+17650,treatment,new page,Postpaid Methods,4,2483
+21902,treatment,new page,Cash On Delivery (COD),5,3204
+13086,control,old page,Credit Cards,1,798.5
+17643,treatment,new page,Postpaid Methods,6,3301
+21533,treatment,new page,Apple Pay,6,492.5
+18303,treatment,new page,Postpaid Methods,4,3179
+12329,control,old page,Credit Cards,1,789.5
+18090,treatment,new page,PayPal,6,2200.5
+22634,treatment,new page,Apple Pay,4,307
+12536,control,old page,PayPal,1,211
+16795,control,old page,Cash On Delivery (COD),3,731.5
+15067,control,old page,Cash On Delivery (COD),2,1003.5
+22841,treatment,new page,Apple Pay,6,2735.5
+16226,control,old page,PayPal,3,1039
+11462,control,old page,Credit Cards,1,262.5
+21261,treatment,new page,Postpaid Methods,4,2673.5
+13915,control,old page,Credit Cards,2,464.5
+20174,treatment,new page,Apple Pay,4,1030.5
+11675,control,old page,Credit Cards,3,598
+15494,control,old page,Cash On Delivery (COD),1,852
+23339,treatment,new page,Postpaid Methods,4,3199
+20394,treatment,new page,PayPal,5,792.5
+21889,treatment,new page,Postpaid Methods,4,818
+19960,treatment,new page,Postpaid Methods,5,2225.5
+21973,treatment,new page,Apple Pay,4,2297.5
+21825,treatment,new page,Postpaid Methods,4,2258
+13831,control,old page,Credit Cards,2,957.5
+17630,treatment,new page,Apple Pay,6,1129.5
+23488,treatment,new page,Apple Pay,6,3063
+18465,treatment,new page,Apple Pay,4,280.5
+12912,control,old page,Cash On Delivery (COD),3,894
+15397,control,old page,PayPal,1,589
+12154,control,old page,PayPal,1,392.5
+22595,treatment,new page,Apple Pay,6,3208
+15436,control,old page,PayPal,3,778.5
+23320,treatment,new page,Apple Pay,4,1619
+12122,control,old page,Cash On Delivery (COD),1,507
+18951,treatment,new page,Postpaid Methods,6,1433.5
+17384,treatment,new page,Credit Cards,4,1759.5
+12452,control,old page,PayPal,3,562.5
+20336,treatment,new page,Apple Pay,6,3647
+21371,treatment,new page,Apple Pay,6,2608
+12763,control,old page,PayPal,3,543
+19391,treatment,new page,Postpaid Methods,4,2612.5
+18446,treatment,new page,Postpaid Methods,5,2103.5
+13157,control,old page,Cash On Delivery (COD),3,634
+18012,treatment,new page,Postpaid Methods,4,2665.5
+18672,treatment,new page,Postpaid Methods,5,1846
+13209,control,old page,Credit Cards,2,1086
+13274,control,old page,Cash On Delivery (COD),1,841.5
+19320,treatment,new page,Postpaid Methods,6,1946
+22537,treatment,new page,Cash On Delivery (COD),6,2823.5
+22614,treatment,new page,Postpaid Methods,6,3825.5
+22737,treatment,new page,Apple Pay,4,1305.5
+15255,control,old page,Cash On Delivery (COD),2,364.5
+20025,treatment,new page,Postpaid Methods,6,781
+20090,treatment,new page,Apple Pay,5,1934
+12840,control,old page,PayPal,1,440
+17883,treatment,new page,Apple Pay,5,647
+20685,treatment,new page,Credit Cards,4,3873.5
+11772,control,old page,PayPal,2,652.5
+19501,treatment,new page,Postpaid Methods,4,1779
+13734,control,old page,PayPal,2,670.5
+12899,control,old page,PayPal,3,746.5
+11423,control,old page,Cash On Delivery (COD),1,890.5
+17054,control,old page,Credit Cards,1,902
+23158,treatment,new page,Postpaid Methods,7,2033.5
+15572,control,old page,Credit Cards,3,925
+20342,treatment,new page,Credit Cards,6,712.5
+17507,treatment,new page,Apple Pay,4,2125.5
+12827,control,old page,Cash On Delivery (COD),1,692.5
+15345,control,old page,Cash On Delivery (COD),3,667.5
+22951,treatment,new page,Apple Pay,6,3649.5
+18206,treatment,new page,Cash On Delivery (COD),5,452.5
+18808,treatment,new page,Postpaid Methods,6,3425
+19255,treatment,new page,Postpaid Methods,6,625.5
+22478,treatment,new page,Apple Pay,6,2492
+16012,control,old page,PayPal,3,285
+23708,treatment,new page,Postpaid Methods,4,1475.5
+15404,control,old page,PayPal,2,494
+19643,treatment,new page,Apple Pay,4,161
+19857,treatment,new page,Apple Pay,4,2384
+15002,control,old page,Cash On Delivery (COD),1,823.5
+13009,control,old page,PayPal,3,719
+17798,treatment,new page,Apple Pay,4,1480
+12659,control,old page,Credit Cards,1,704
+23177,treatment,new page,Apple Pay,5,1729.5
+19223,treatment,new page,Apple Pay,5,1242.5
+15294,control,old page,Cash On Delivery (COD),1,1030.5
+15902,control,old page,Cash On Delivery (COD),2,529.5
+18841,treatment,new page,Postpaid Methods,5,1853
+11015,control,old page,Credit Cards,3,169
+20511,treatment,new page,Postpaid Methods,5,1722
+14271,control,old page,Credit Cards,2,165.5
+16912,control,old page,Cash On Delivery (COD),3,641
+19287,treatment,new page,Apple Pay,4,2898
+16776,control,old page,Credit Cards,1,881
+14983,control,old page,Credit Cards,2,392
+19876,treatment,new page,Apple Pay,6,2421
+16323,control,old page,Credit Cards,3,922.5
+16931,control,old page,Cash On Delivery (COD),2,656
+12310,control,old page,Credit Cards,2,880
+14717,control,old page,PayPal,2,722.5
+12361,control,old page,Cash On Delivery (COD),2,676.5
+19747,treatment,new page,Postpaid Methods,4,815
+13708,control,old page,PayPal,3,247.5
+14873,control,old page,Credit Cards,1,817
+12135,control,old page,PayPal,2,729.5
+20504,treatment,new page,PayPal,4,3188.5
+11358,control,old page,PayPal,1,826
+12381,control,old page,Cash On Delivery (COD),1,269
+19378,treatment,new page,Postpaid Methods,5,3524
+21630,treatment,new page,Postpaid Methods,5,1668
+17015,control,old page,PayPal,3,740.5
+13656,control,old page,Cash On Delivery (COD),3,346
+22058,treatment,new page,PayPal,4,867.5
+15183,control,old page,PayPal,2,750.5
+17436,treatment,new page,Postpaid Methods,5,770.5
+16633,control,old page,Credit Cards,2,377
+20368,treatment,new page,Postpaid Methods,5,1721
+16951,control,old page,PayPal,1,928.5
+18284,treatment,new page,Apple Pay,4,2766
+18491,treatment,new page,Credit Cards,6,3340.5
+14925,control,old page,PayPal,1,193
+19242,treatment,new page,Apple Pay,5,1184
+17423,treatment,new page,Postpaid Methods,6,3606
+23689,treatment,new page,Apple Pay,6,2969.5
+13960,control,old page,Credit Cards,2,981
+11339,control,old page,PayPal,3,1044
+20375,treatment,new page,Apple Pay,5,1683
+22504,treatment,new page,Postpaid Methods,4,1264.5
+21928,treatment,new page,Postpaid Methods,5,3286.5
+15734,control,old page,Credit Cards,3,190.5
+19048,treatment,new page,Credit Cards,5,356
+17268,control,old page,Credit Cards,1,531
+14161,control,old page,PayPal,2,991.5
+22783,treatment,new page,Apple Pay,5,2975.5
+12368,control,old page,Credit Cards,3,593.5
+23443,treatment,new page,Postpaid Methods,6,547
+23352,treatment,new page,Postpaid Methods,5,2783
+22433,treatment,new page,Postpaid Methods,5,3013.5
+12523,control,old page,PayPal,2,968.5
+12866,control,old page,Cash On Delivery (COD),3,716.5
+16640,control,old page,Credit Cards,2,303.5
+23514,treatment,new page,Apple Pay,6,1476.5
+20206,treatment,new page,Apple Pay,4,984.5
+13869,control,old page,Cash On Delivery (COD),3,710.5
+13565,control,old page,Cash On Delivery (COD),1,1029.5
+21003,treatment,new page,Postpaid Methods,6,3124
+12115,control,old page,Credit Cards,2,248.5
+11714,control,old page,PayPal,1,823.5
+22524,treatment,new page,Cash On Delivery (COD),5,3153.5
+15617,control,old page,PayPal,3,932.5
+11060,control,old page,PayPal,2,518
+12251,control,old page,Cash On Delivery (COD),3,259
+14439,control,old page,Credit Cards,3,873.5
+21721,treatment,new page,Cash On Delivery (COD),5,1526
+19294,treatment,new page,Apple Pay,4,3797
+13721,control,old page,Cash On Delivery (COD),2,931.5
+20957,treatment,new page,Apple Pay,4,2666.5
+20951,treatment,new page,Apple Pay,4,1033
+23365,treatment,new page,Apple Pay,6,1658
+13753,control,old page,Credit Cards,2,859.5
+12245,control,old page,Credit Cards,3,782.5
+11365,control,old page,Cash On Delivery (COD),4,794.5
+22666,treatment,new page,Credit Cards,5,997.5
+19268,treatment,new page,Apple Pay,6,3057.5
+23106,treatment,new page,Apple Pay,6,3044
+18588,treatment,new page,Apple Pay,4,2873.5
+20310,treatment,new page,Apple Pay,5,2369
+18821,treatment,new page,Postpaid Methods,6,2007
+16976,control,old page,PayPal,3,320
+14976,control,old page,PayPal,1,981.5
+11669,control,old page,Credit Cards,3,1063
+19358,treatment,new page,Apple Pay,4,2162.5
+16853,control,old page,Credit Cards,3,963.5
+19507,treatment,new page,Apple Pay,4,1271.5
+17928,treatment,new page,Postpaid Methods,5,3295
+14815,control,old page,PayPal,2,560.5
+23016,treatment,new page,Apple Pay,5,3673.5
+13416,control,old page,PayPal,3,489.5
+13145,control,old page,Cash On Delivery (COD),3,590
+20284,treatment,new page,PayPal,5,3101
+15099,control,old page,PayPal,3,876.5
+23935,treatment,new page,Credit Cards,4,319.5
+19384,treatment,new page,Postpaid Methods,6,532.5
+17844,treatment,new page,Postpaid Methods,5,2362.5
+19261,treatment,new page,Postpaid Methods,4,2481
+23009,treatment,new page,Apple Pay,4,3403
+15908,control,old page,PayPal,2,769.5
+16245,control,old page,Credit Cards,2,605
+18996,treatment,new page,Apple Pay,6,596
+21986,treatment,new page,Postpaid Methods,4,1253.5
+12795,control,old page,Credit Cards,1,470
+18847,treatment,new page,Credit Cards,4,2312
+14963,control,old page,Cash On Delivery (COD),1,685.5
+15656,control,old page,Credit Cards,3,576.5
+16556,control,old page,Cash On Delivery (COD),3,1027.5
+20083,treatment,new page,PayPal,6,762
+14193,control,old page,PayPal,1,1030
+16899,control,old page,PayPal,1,685
+14808,control,old page,PayPal,2,352.5
+18510,treatment,new page,PayPal,5,3678
+23585,treatment,new page,Apple Pay,4,2000
+13235,control,old page,Credit Cards,1,945.5
+13921,control,old page,Cash On Delivery (COD),2,757
+17093,control,old page,Credit Cards,1,287.5
+20647,treatment,new page,Apple Pay,5,822
+23462,treatment,new page,Postpaid Methods,4,1305
+14200,control,old page,Cash On Delivery (COD),3,737
+20931,treatment,new page,Postpaid Methods,5,2021.5
+18336,treatment,new page,Cash On Delivery (COD),4,3459.5
+13636,control,old page,Credit Cards,3,557.5
+15125,control,old page,Cash On Delivery (COD),2,680
+20808,treatment,new page,Apple Pay,6,3322.5
+11280,control,old page,PayPal,2,326
+18083,treatment,new page,Apple Pay,4,3500.5
+15520,control,old page,Cash On Delivery (COD),1,486.5
+18621,treatment,new page,Apple Pay,4,2558
+15196,control,old page,PayPal,1,1083.5
+16925,control,old page,Credit Cards,1,939.5
+23132,treatment,new page,PayPal,5,3878
+18096,treatment,new page,Credit Cards,5,656
+14083,control,old page,PayPal,1,884
+17786,treatment,new page,Postpaid Methods,6,3820.5
+14018,control,old page,Cash On Delivery (COD),1,979.5
+21145,treatment,new page,Credit Cards,5,3650.5
+22575,treatment,new page,Apple Pay,6,1041.5
+12478,control,old page,Cash On Delivery (COD),2,749.5
+14258,control,old page,Cash On Delivery (COD),3,193
+15507,control,old page,Cash On Delivery (COD),1,275.5
+23404,treatment,new page,Apple Pay,4,2854.5
+15811,control,old page,Credit Cards,3,983
+12064,control,old page,Cash On Delivery (COD),3,513.5
+13895,control,old page,PayPal,1,693
+11850,control,old page,Credit Cards,2,333.5
+15287,control,old page,Credit Cards,3,902
+18407,treatment,new page,Cash On Delivery (COD),4,1774.5
+14141,control,old page,PayPal,1,684
+17734,treatment,new page,Postpaid Methods,5,1091
+11086,control,old page,PayPal,1,285.5
+16944,control,old page,Cash On Delivery (COD),1,409.5
+17391,treatment,new page,Postpaid Methods,6,3852
+12167,control,old page,Credit Cards,1,691.5
+19689,treatment,new page,Apple Pay,4,2955
+14640,control,old page,PayPal,1,550.5
+11080,control,old page,PayPal,3,997.5
+15352,control,old page,Credit Cards,2,334.5
+11656,control,old page,PayPal,1,1049
+18834,treatment,new page,Apple Pay,6,1312
+17611,treatment,new page,Postpaid Methods,5,3436
+11649,control,old page,PayPal,2,319.5
+12976,control,old page,Cash On Delivery (COD),1,159
+23436,treatment,new page,Postpaid Methods,4,1558.5
+17540,treatment,new page,Credit Cards,6,2939
+18025,treatment,new page,Postpaid Methods,4,1790
+13824,control,old page,PayPal,2,929
+22045,treatment,new page,Postpaid Methods,5,902
+23948,treatment,new page,Postpaid Methods,6,325.5
+18180,treatment,new page,Postpaid Methods,6,3076
+15054,control,old page,Cash On Delivery (COD),1,207
+11882,control,old page,Cash On Delivery (COD),2,381.5
+12821,control,old page,Cash On Delivery (COD),3,171
+17753,treatment,new page,Postpaid Methods,6,1447.5
+22401,treatment,new page,Postpaid Methods,6,3530
+12562,control,old page,Credit Cards,1,389.5
+17171,control,old page,Cash On Delivery (COD),3,277.5
+13857,control,old page,Credit Cards,2,1027
+22226,treatment,new page,Apple Pay,4,2417.5
+16996,control,old page,Credit Cards,2,508.5
+20303,treatment,new page,PayPal,4,3575
+12556,control,old page,Cash On Delivery (COD),1,246
+13151,control,old page,Credit Cards,2,941
+22465,treatment,new page,Postpaid Methods,5,1573
+12445,control,old page,Credit Cards,2,942
+19371,treatment,new page,Cash On Delivery (COD),6,821
+11740,control,old page,Cash On Delivery (COD),3,334
+16497,control,old page,PayPal,2,329.5
+20135,treatment,new page,Postpaid Methods,4,2778
+22977,treatment,new page,Credit Cards,4,3762
+17967,treatment,new page,PayPal,4,2859.5
+17986,treatment,new page,Postpaid Methods,6,1487
+17663,treatment,new page,Postpaid Methods,6,1757
+14103,control,old page,PayPal,1,349
+12924,control,old page,PayPal,1,716.5
+12996,control,old page,Credit Cards,3,214
+14459,control,old page,Cash On Delivery (COD),2,340.5
+15171,control,old page,Cash On Delivery (COD),1,842.5
+11546,control,old page,Cash On Delivery (COD),2,732.5
+23223,treatment,new page,Apple Pay,5,3632
+20103,treatment,new page,Apple Pay,5,1442
+22375,treatment,new page,Apple Pay,5,2863.5
+20381,treatment,new page,Postpaid Methods,6,2547.5
+15870,control,old page,Cash On Delivery (COD),1,293
+14077,control,old page,Credit Cards,3,363
+21870,treatment,new page,Postpaid Methods,4,2431
+23851,treatment,new page,Credit Cards,5,2344.5
+17216,control,old page,PayPal,3,793.5
+22349,treatment,new page,Postpaid Methods,5,912
+23941,treatment,new page,Apple Pay,6,1291
+13196,control,old page,PayPal,3,976.5
+17902,treatment,new page,Apple Pay,6,3078.5
+22472,treatment,new page,Postpaid Methods,4,1058.5
+22588,treatment,new page,Apple Pay,5,1743
+11992,control,old page,PayPal,1,272.5
+17727,treatment,new page,Apple Pay,6,990.5
+11934,control,old page,Cash On Delivery (COD),1,480.5
+17345,treatment,new page,Apple Pay,6,178.5
+22142,treatment,new page,Apple Pay,5,436.5
+11034,control,old page,Cash On Delivery (COD),2,236.5
+12892,control,old page,PayPal,1,754
+19326,treatment,new page,Postpaid Methods,5,1956
+16374,control,old page,Cash On Delivery (COD),2,733
+13060,control,old page,PayPal,2,266
+14562,control,old page,Cash On Delivery (COD),3,913.5
+13513,control,old page,Credit Cards,1,992
+12089,control,old page,Credit Cards,1,428.5
+14206,control,old page,Credit Cards,3,379
+12944,control,old page,Cash On Delivery (COD),2,426
+17164,control,old page,PayPal,2,613.5
+22925,treatment,new page,Apple Pay,5,338.5
+15222,control,old page,Cash On Delivery (COD),3,800
+13837,control,old page,Credit Cards,2,563
+19786,treatment,new page,Postpaid Methods,4,344.5
+21210,treatment,new page,Cash On Delivery (COD),5,692
+20122,treatment,new page,Apple Pay,4,1433
+18200,treatment,new page,Apple Pay,6,3813.5
+15624,control,old page,Cash On Delivery (COD),3,500
+16692,control,old page,Credit Cards,1,553.5
+13183,control,old page,Cash On Delivery (COD),1,976.5
+18057,treatment,new page,Apple Pay,5,2170
+22731,treatment,new page,Apple Pay,4,2415
+12051,control,old page,Cash On Delivery (COD),3,724
+21339,treatment,new page,PayPal,5,2483
+22802,treatment,new page,Postpaid Methods,4,1213.5
+12387,control,old page,PayPal,2,988.5
+17973,treatment,new page,Apple Pay,4,2963.5
+20763,treatment,new page,Postpaid Methods,5,405
+11054,control,old page,Credit Cards,1,509.5
+19986,treatment,new page,Cash On Delivery (COD),5,1797.5
+18517,treatment,new page,Cash On Delivery (COD),5,3039
+20161,treatment,new page,Apple Pay,6,1011
+23669,treatment,new page,Cash On Delivery (COD),5,3915
+21980,treatment,new page,Postpaid Methods,4,3141
+15086,control,old page,Credit Cards,2,748
+17960,treatment,new page,Postpaid Methods,5,2542
+13986,control,old page,PayPal,3,713.5
+16329,control,old page,PayPal,1,259.5
+14853,control,old page,PayPal,2,397.5
+13002,control,old page,PayPal,3,316.5
+13436,control,old page,Cash On Delivery (COD),2,177.5
+13132,control,old page,Credit Cards,2,818
+20970,treatment,new page,Apple Pay,4,2419.5
+15915,control,old page,Credit Cards,3,611
+11559,control,old page,PayPal,1,592
+16963,control,old page,PayPal,2,227.5
+12471,control,old page,Cash On Delivery (COD),2,321
+11306,control,old page,PayPal,1,681.5
+11928,control,old page,Credit Cards,3,233.5
+15973,control,old page,Credit Cards,1,904.5
+16562,control,old page,PayPal,1,581.5
+17831,treatment,new page,PayPal,4,3470
+23508,treatment,new page,Postpaid Methods,6,2585.5
+15119,control,old page,Credit Cards,1,902.5
+17404,treatment,new page,Postpaid Methods,5,3048
+22329,treatment,new page,Postpaid Methods,5,2174
+15682,control,old page,PayPal,2,1036.5
+16316,control,old page,Credit Cards,3,989
+16070,control,old page,Cash On Delivery (COD),3,316
+15785,control,old page,Credit Cards,1,1034.5
+11377,control,old page,Cash On Delivery (COD),3,464
+12264,control,old page,PayPal,3,458
+15009,control,old page,PayPal,2,608.5
+13889,control,old page,Credit Cards,2,615
+21727,treatment,new page,Postpaid Methods,5,2584.5
+23721,treatment,new page,Apple Pay,5,2371.5
+11869,control,old page,Credit Cards,3,504.5
+19449,treatment,new page,Apple Pay,4,2614.5
+19112,treatment,new page,Cash On Delivery (COD),5,564.5
+22964,treatment,new page,PayPal,6,2144.5
+12646,control,old page,Cash On Delivery (COD),2,584.5
+14957,control,old page,Credit Cards,1,715
+19760,treatment,new page,Postpaid Methods,6,2203.5
+21378,treatment,new page,Credit Cards,6,2405
+19248,treatment,new page,Postpaid Methods,6,849.5
+23152,treatment,new page,Credit Cards,6,2904
+22550,treatment,new page,Apple Pay,6,2861
+15772,control,old page,PayPal,3,332
+22414,treatment,new page,PayPal,4,3574
+23449,treatment,new page,Apple Pay,5,900
+20349,treatment,new page,Credit Cards,5,2014.5
+19015,treatment,new page,PayPal,7,2711
+18323,treatment,new page,Postpaid Methods,6,3776.5
+15967,control,old page,Cash On Delivery (COD),2,605
+17145,control,old page,PayPal,1,1039.5
+16433,control,old page,Credit Cards,2,584
+12141,control,old page,Credit Cards,3,1005.5
+22394,treatment,new page,Cash On Delivery (COD),4,2086.5
+12355,control,old page,Cash On Delivery (COD),1,958
+23889,treatment,new page,Postpaid Methods,6,1438
+12012,control,old page,Credit Cards,2,357.5
+13261,control,old page,Credit Cards,1,527
+18653,treatment,new page,Apple Pay,4,638
+16420,control,old page,PayPal,1,706.5
+18129,treatment,new page,Postpaid Methods,6,2307.5
+17151,control,old page,Cash On Delivery (COD),2,435
+12905,control,old page,Credit Cards,3,163.5
+12963,control,old page,Credit Cards,2,459.5
+19837,treatment,new page,Apple Pay,6,450
+11902,control,old page,Credit Cards,3,186
+17721,treatment,new page,PayPal,5,2620.5
+17760,treatment,new page,Apple Pay,4,746
+20789,treatment,new page,PayPal,4,676.5
+16452,control,old page,Cash On Delivery (COD),2,1054
+19080,treatment,new page,Apple Pay,5,764
+18006,treatment,new page,Postpaid Methods,5,301.5
+19928,treatment,new page,Apple Pay,6,1641.5
+14387,control,old page,PayPal,3,974.5
+14038,control,old page,Cash On Delivery (COD),3,552.5
+22569,treatment,new page,Postpaid Methods,6,851
+20245,treatment,new page,Apple Pay,4,1180.5
+14970,control,old page,Credit Cards,3,569.5
+21061,treatment,new page,Postpaid Methods,5,2206
+23954,treatment,new page,Postpaid Methods,5,3217
+22219,treatment,new page,Apple Pay,5,1399
+13034,control,old page,PayPal,1,446
+14763,control,old page,Credit Cards,3,567
+14789,control,old page,Credit Cards,2,365.5
+22938,treatment,new page,PayPal,6,1420.5
+17941,treatment,new page,Apple Pay,4,3742.5
+17915,treatment,new page,Apple Pay,6,1200
+21365,treatment,new page,Apple Pay,6,2714.5
+21028,treatment,new page,Postpaid Methods,6,956.5
+16892,control,old page,Cash On Delivery (COD),3,387
+11267,control,old page,Credit Cards,3,518
+15669,control,old page,PayPal,1,713.5
+18562,treatment,new page,Credit Cards,6,1385
+20109,treatment,new page,Cash On Delivery (COD),4,2398.5
+19727,treatment,new page,Cash On Delivery (COD),6,442.5
+21643,treatment,new page,Postpaid Methods,4,3253.5
+16394,control,old page,Credit Cards,1,607
+13980,control,old page,Credit Cards,3,321
+15229,control,old page,Credit Cards,1,479.5
+21734,treatment,new page,Postpaid Methods,4,2047.5
+12853,control,old page,Credit Cards,3,455
+20834,treatment,new page,Postpaid Methods,5,1724
+18472,treatment,new page,Postpaid Methods,5,209.5
+14989,control,old page,PayPal,2,869.5
+11960,control,old page,PayPal,3,672.5
+18362,treatment,new page,Apple Pay,4,1659
+23527,treatment,new page,Cash On Delivery (COD),6,176.5
+14413,control,old page,Cash On Delivery (COD),1,557.5
+17300,control,old page,PayPal,1,227.5
+21993,treatment,new page,Postpaid Methods,6,643
+13675,control,old page,Cash On Delivery (COD),2,1064
+15643,control,old page,Cash On Delivery (COD),2,158
+11403,control,old page,Cash On Delivery (COD),2,398.5
+11313,control,old page,Credit Cards,1,732
+22530,treatment,new page,Apple Pay,4,2997.5
+22407,treatment,new page,Apple Pay,6,3882.5
+17009,control,old page,PayPal,2,876.5
+14005,control,old page,Credit Cards,3,405.5
+15662,control,old page,Cash On Delivery (COD),1,619.5
+19002,treatment,new page,Apple Pay,6,2305.5
+17365,treatment,new page,Postpaid Methods,5,324
+12083,control,old page,Credit Cards,1,734
+13501,control,old page,Credit Cards,3,783.5
+14653,control,old page,Cash On Delivery (COD),1,398
+20795,treatment,new page,Apple Pay,4,3126
+22232,treatment,new page,Postpaid Methods,4,3713.5
+19436,treatment,new page,PayPal,5,228
+17624,treatment,new page,Postpaid Methods,5,673.5
+12238,control,old page,PayPal,2,815
+20077,treatment,new page,PayPal,6,2637
+11216,control,old page,PayPal,3,553.5
+11526,control,old page,Credit Cards,2,809
+21417,treatment,new page,Postpaid Methods,5,197
+11708,control,old page,PayPal,2,1037.5
+18239,treatment,new page,Apple Pay,5,3271.5
+14659,control,old page,PayPal,1,218.5
+18595,treatment,new page,Apple Pay,4,2428
+11481,control,old page,PayPal,2,373.5
+11966,control,old page,Credit Cards,2,232
+13268,control,old page,Cash On Delivery (COD),1,606.5
+11345,control,old page,Cash On Delivery (COD),3,472
+18970,treatment,new page,Cash On Delivery (COD),4,3405.5
+19067,treatment,new page,Cash On Delivery (COD),4,3712.5
+22194,treatment,new page,Cash On Delivery (COD),6,2843.5
+15708,control,old page,PayPal,3,565.5
+17235,control,old page,Cash On Delivery (COD),3,503.5
+15306,control,old page,Credit Cards,1,248
+16730,control,old page,PayPal,2,569.5
+17410,treatment,new page,Apple Pay,6,3346
+14290,control,old page,Cash On Delivery (COD),3,706.5
+11028,control,old page,PayPal,3,726.5
+17779,treatment,new page,Postpaid Methods,6,1999.5
+23618,treatment,new page,Apple Pay,4,3774
+11151,control,old page,Cash On Delivery (COD),3,1046.5
+18116,treatment,new page,Apple Pay,4,2219.5
+19164,treatment,new page,Cash On Delivery (COD),4,476.5
+19468,treatment,new page,PayPal,5,1887
+19947,treatment,new page,Postpaid Methods,5,3328.5
+20744,treatment,new page,Cash On Delivery (COD),6,3692
+21753,treatment,new page,PayPal,4,3055
+19753,treatment,new page,Postpaid Methods,6,1719
+21863,treatment,new page,Apple Pay,4,592.5
+11701,control,old page,PayPal,2,969.5
+15837,control,old page,Credit Cards,3,662.5
+20899,treatment,new page,Postpaid Methods,5,532.5
+18232,treatment,new page,Postpaid Methods,6,1494
+21896,treatment,new page,Postpaid Methods,4,1280.5
+18044,treatment,new page,Postpaid Methods,5,2429.5
+19624,treatment,new page,Apple Pay,5,2422
+11630,control,old page,Credit Cards,2,729
+13313,control,old page,Cash On Delivery (COD),3,250.5
+17294,control,old page,Credit Cards,2,798.5
+18459,treatment,new page,Postpaid Methods,4,1935.5
+20996,treatment,new page,Apple Pay,5,1804.5
+22310,treatment,new page,Postpaid Methods,6,2269
+15462,control,old page,Cash On Delivery (COD),1,803
+20815,treatment,new page,Postpaid Methods,5,364
+11190,control,old page,PayPal,3,556.5
+21922,treatment,new page,Apple Pay,6,1794.5
+16627,control,old page,Credit Cards,2,713.5
+17766,treatment,new page,Apple Pay,6,2044.5
+19430,treatment,new page,Apple Pay,4,3728
+23113,treatment,new page,Postpaid Methods,6,2148
+19591,treatment,new page,Apple Pay,4,1399.5
+16362,control,old page,PayPal,1,954
+21475,treatment,new page,Postpaid Methods,6,2843.5
+12206,control,old page,PayPal,2,710
+23825,treatment,new page,Apple Pay,4,2507.5
+21514,treatment,new page,Postpaid Methods,5,1252.5
+23300,treatment,new page,Postpaid Methods,5,2926.5
+12348,control,old page,Cash On Delivery (COD),3,566
+16957,control,old page,Credit Cards,3,913
+20452,treatment,new page,Apple Pay,5,1572
+19527,treatment,new page,Postpaid Methods,4,3600
+18258,treatment,new page,Postpaid Methods,5,2583.5
+16141,control,old page,Cash On Delivery (COD),1,391.5
+18219,treatment,new page,Postpaid Methods,6,2663
+18400,treatment,new page,Apple Pay,6,238
+20446,treatment,new page,Postpaid Methods,5,2556.5
+22071,treatment,new page,Postpaid Methods,4,2992
+15268,control,old page,Cash On Delivery (COD),1,806.5
+13507,control,old page,Credit Cards,3,295
+12627,control,old page,Credit Cards,3,555
+14180,control,old page,Credit Cards,2,620.5
+15928,control,old page,Credit Cards,3,693
+18549,treatment,new page,Postpaid Methods,6,2769.5
+15585,control,old page,Credit Cards,2,437
+15248,control,old page,Credit Cards,2,1092.5
+12057,control,old page,Credit Cards,1,445.5
+23378,treatment,new page,Postpaid Methods,4,2683
+12581,control,old page,Credit Cards,1,446.5
+20433,treatment,new page,Apple Pay,5,728
+13701,control,old page,Cash On Delivery (COD),4,789
+23553,treatment,new page,Apple Pay,5,1088
+18478,treatment,new page,Cash On Delivery (COD),5,1738.5
+20329,treatment,new page,Apple Pay,5,2477
+21592,treatment,new page,Postpaid Methods,5,3032
+22498,treatment,new page,Postpaid Methods,6,557.5
+18142,treatment,new page,Apple Pay,6,2712
+16167,control,old page,PayPal,2,599.5
+20653,treatment,new page,Apple Pay,6,1678
+14938,control,old page,Credit Cards,1,247.5
+16782,control,old page,PayPal,3,749.5
+15416,control,old page,Credit Cards,1,536
+17999,treatment,new page,Postpaid Methods,6,918.5
+12776,control,old page,Credit Cards,1,753
+12433,control,old page,PayPal,2,450.5
+20672,treatment,new page,Cash On Delivery (COD),5,268
+22808,treatment,new page,Postpaid Methods,6,2824.5
+20168,treatment,new page,PayPal,5,2635
+17132,control,old page,Credit Cards,3,832.5
+17080,control,old page,Credit Cards,1,190
+13177,control,old page,Credit Cards,2,194.5
+15533,control,old page,Cash On Delivery (COD),4,602.5
+18413,treatment,new page,Postpaid Methods,6,1352.5
+20498,treatment,new page,Postpaid Methods,5,622
+19650,treatment,new page,Apple Pay,6,2813.5
+17805,treatment,new page,Postpaid Methods,6,1574
+20517,treatment,new page,Postpaid Methods,5,1567
+21773,treatment,new page,Apple Pay,4,1590
+15753,control,old page,Credit Cards,3,421.5
+11397,control,old page,Cash On Delivery (COD),1,952
+22200,treatment,new page,Apple Pay,4,1274.5
+20116,treatment,new page,Postpaid Methods,6,3034
+22757,treatment,new page,Apple Pay,5,1101.5
+20614,treatment,new page,Cash On Delivery (COD),4,982.5
+13332,control,old page,Credit Cards,2,259
+19980,treatment,new page,Apple Pay,4,1872.5
+14588,control,old page,PayPal,3,378.5
+21702,treatment,new page,Postpaid Methods,6,1010
+22647,treatment,new page,Apple Pay,6,3185.5
+19604,treatment,new page,Cash On Delivery (COD),6,433
+21300,treatment,new page,Credit Cards,4,3021.5
+15235,control,old page,Cash On Delivery (COD),2,215
+15274,control,old page,Cash On Delivery (COD),2,1050.5
+21501,treatment,new page,Credit Cards,4,3217
+22336,treatment,new page,Credit Cards,5,2126
+15986,control,old page,Cash On Delivery (COD),1,911.5
+11371,control,old page,Credit Cards,3,869
+13293,control,old page,Credit Cards,1,480.5
+19443,treatment,new page,Apple Pay,6,687
+22653,treatment,new page,Postpaid Methods,5,2775
+22206,treatment,new page,Credit Cards,5,3312.5
+22679,treatment,new page,Cash On Delivery (COD),4,1107.5
+18744,treatment,new page,Apple Pay,5,1189.5
+16122,control,old page,Cash On Delivery (COD),2,348
+15604,control,old page,Cash On Delivery (COD),2,404.5
+14581,control,old page,Cash On Delivery (COD),2,439
+13520,control,old page,Credit Cards,1,1045.5
+23773,treatment,new page,PayPal,4,925.5
+11798,control,old page,Cash On Delivery (COD),1,1038
+13378,control,old page,PayPal,1,258.5
+12808,control,old page,PayPal,1,640
+21585,treatment,new page,Postpaid Methods,4,751
+19915,treatment,new page,Postpaid Methods,5,3442
+16277,control,old page,Cash On Delivery (COD),3,917.5
+12193,control,old page,PayPal,1,394.5
+21333,treatment,new page,Postpaid Methods,5,342.5
+17947,treatment,new page,Postpaid Methods,5,3225.5
+18608,treatment,new page,Apple Pay,6,405
+21760,treatment,new page,Postpaid Methods,6,3333.5
+14174,control,old page,Cash On Delivery (COD),3,846
+20478,treatment,new page,Apple Pay,6,2584
+12232,control,old page,PayPal,2,439.5
+18271,treatment,new page,Apple Pay,5,1162
+21792,treatment,new page,Postpaid Methods,4,3474.5
+23171,treatment,new page,Postpaid Methods,5,3833
+21611,treatment,new page,Apple Pay,6,3547
+20692,treatment,new page,Postpaid Methods,4,2491.5
+15941,control,old page,Credit Cards,1,1079.5
+17578,treatment,new page,Credit Cards,4,2933
+16310,control,old page,Cash On Delivery (COD),3,921
+11157,control,old page,PayPal,2,365.5
+16485,control,old page,PayPal,1,925.5
+12510,control,old page,Cash On Delivery (COD),3,575
+21384,treatment,new page,Apple Pay,4,422.5
+20905,treatment,new page,Credit Cards,4,2317
+11242,control,old page,PayPal,2,1058
+14556,control,old page,PayPal,1,859.5
+16232,control,old page,Cash On Delivery (COD),1,557
+11500,control,old page,Credit Cards,2,476
+21812,treatment,new page,Postpaid Methods,4,833.5
+20536,treatment,new page,Apple Pay,6,2981.5
+22452,treatment,new page,Apple Pay,6,847
+16219,control,old page,Cash On Delivery (COD),1,654
+19281,treatment,new page,Apple Pay,6,944.5
+17352,treatment,new page,Postpaid Methods,6,275
+13371,control,old page,Credit Cards,1,221
+18737,treatment,new page,Postpaid Methods,6,2311
+20621,treatment,new page,Postpaid Methods,7,2968
+11578,control,old page,PayPal,1,672
+18918,treatment,new page,Postpaid Methods,6,3676
+17747,treatment,new page,Apple Pay,6,3573.5
+14219,control,old page,Credit Cards,3,634.5
+19520,treatment,new page,Apple Pay,6,2169
+19714,treatment,new page,Postpaid Methods,5,3037.5
+13539,control,old page,PayPal,2,318.5
+11513,control,old page,PayPal,1,463
+12801,control,old page,PayPal,1,970.5
+14899,control,old page,Cash On Delivery (COD),2,329
+17818,treatment,new page,Apple Pay,5,1000
+20724,treatment,new page,Postpaid Methods,6,1642
+11759,control,old page,Cash On Delivery (COD),1,359
+23326,treatment,new page,PayPal,6,3052.5
+22291,treatment,new page,Postpaid Methods,4,2621.5
+21171,treatment,new page,Apple Pay,5,1332.5
+11047,control,old page,Credit Cards,4,936.5
+14297,control,old page,Credit Cards,2,235.5
+13682,control,old page,PayPal,2,534
+16711,control,old page,Credit Cards,2,171.5
+12044,control,old page,PayPal,1,1031.5
+18627,treatment,new page,PayPal,6,943.5
+14711,control,old page,Cash On Delivery (COD),3,269.5
+16154,control,old page,Cash On Delivery (COD),1,714
+14672,control,old page,Credit Cards,2,620
+14646,control,old page,Credit Cards,1,852.5
+11805,control,old page,Cash On Delivery (COD),1,825.5
+18854,treatment,new page,Cash On Delivery (COD),6,736
+12730,control,old page,Credit Cards,1,187
+21443,treatment,new page,Postpaid Methods,6,3226
+13047,control,old page,PayPal,2,353
+13882,control,old page,PayPal,1,562
+15384,control,old page,PayPal,1,830.5
+17287,control,old page,Credit Cards,1,571
+18795,treatment,new page,Apple Pay,6,213
+18122,treatment,new page,Postpaid Methods,4,658
+15740,control,old page,Cash On Delivery (COD),2,872.5
+11494,control,old page,Credit Cards,1,581
+18899,treatment,new page,Cash On Delivery (COD),5,3814
+18103,treatment,new page,Apple Pay,4,426
+21876,treatment,new page,Postpaid Methods,5,1627.5
+12484,control,old page,PayPal,4,517.5
+15675,control,old page,PayPal,1,1056
+14491,control,old page,Cash On Delivery (COD),3,872.5
+13766,control,old page,PayPal,2,908.5
+17876,treatment,new page,Credit Cards,4,1580
+22776,treatment,new page,Postpaid Methods,6,859
+20297,treatment,new page,Apple Pay,7,3139.5
+21605,treatment,new page,Cash On Delivery (COD),6,3088.5
+20828,treatment,new page,Apple Pay,4,3104.5
+15022,control,old page,Credit Cards,3,1036
+17980,treatment,new page,Postpaid Methods,4,3768
+15300,control,old page,Credit Cards,2,389
+21449,treatment,new page,Credit Cards,5,453
+20847,treatment,new page,Postpaid Methods,5,2244.5
+14096,control,old page,PayPal,1,1028
+16750,control,old page,Cash On Delivery (COD),2,769
+16213,control,old page,PayPal,1,914
+13455,control,old page,Cash On Delivery (COD),2,203.5
+19177,treatment,new page,Apple Pay,5,1400
+11533,control,old page,PayPal,1,987
+14025,control,old page,Cash On Delivery (COD),3,669.5
+11106,control,old page,PayPal,3,949
+20485,treatment,new page,Credit Cards,4,473
+19106,treatment,new page,Postpaid Methods,5,201
+19967,treatment,new page,Apple Pay,5,2802
+15876,control,old page,PayPal,2,430
+14996,control,old page,PayPal,3,1063.5
+21572,treatment,new page,Postpaid Methods,6,1367.5
+20556,treatment,new page,Postpaid Methods,6,1292.5
+12530,control,old page,PayPal,2,1006
+22789,treatment,new page,Apple Pay,5,3771.5
+17533,treatment,new page,Postpaid Methods,6,3908.5
+14433,control,old page,PayPal,2,284.5
+19579,treatment,new page,Postpaid Methods,6,2316.5
+11746,control,old page,Cash On Delivery (COD),3,426
+19902,treatment,new page,Apple Pay,5,2515
+17319,control,old page,PayPal,3,530.5
+18019,treatment,new page,Apple Pay,6,1038
+12704,control,old page,Credit Cards,2,927
+12109,control,old page,PayPal,3,740
+13947,control,old page,Cash On Delivery (COD),4,951
+21436,treatment,new page,Apple Pay,6,859
+20892,treatment,new page,Postpaid Methods,4,3492
+20057,treatment,new page,Postpaid Methods,5,2407
+11552,control,old page,Cash On Delivery (COD),3,713.5
+15539,control,old page,Credit Cards,2,1086.5
+22718,treatment,new page,Postpaid Methods,4,1529.5
+16038,control,old page,Cash On Delivery (COD),2,293
+21151,treatment,new page,Postpaid Methods,5,2723.5
+15921,control,old page,Credit Cards,3,837.5
+21482,treatment,new page,Apple Pay,6,3363.5
+15468,control,old page,PayPal,3,823
+16284,control,old page,Cash On Delivery (COD),3,1061
+18394,treatment,new page,Cash On Delivery (COD),4,780
+21093,treatment,new page,Apple Pay,5,1672
+22362,treatment,new page,Apple Pay,5,383
+21527,treatment,new page,Apple Pay,6,1571
+12918,control,old page,Cash On Delivery (COD),1,797
+16426,control,old page,Cash On Delivery (COD),1,580.5
+20912,treatment,new page,Postpaid Methods,5,3301
+14012,control,old page,PayPal,3,959.5
+23281,treatment,new page,Credit Cards,4,2435.5
+12128,control,old page,PayPal,3,1020.5
+18575,treatment,new page,Apple Pay,5,3721.5
+18077,treatment,new page,Apple Pay,5,3300
+21948,treatment,new page,Cash On Delivery (COD),5,3915.5
+14044,control,old page,Cash On Delivery (COD),2,595.5
+20213,treatment,new page,Postpaid Methods,4,3690.5
+20601,treatment,new page,Apple Pay,7,2838.5
+11779,control,old page,Cash On Delivery (COD),4,1004
+16970,control,old page,Cash On Delivery (COD),2,574.5
+11585,control,old page,PayPal,2,295
+18420,treatment,new page,Apple Pay,4,1200
+19190,treatment,new page,Credit Cards,6,3126
+14510,control,old page,PayPal,3,370.5
+22064,treatment,new page,Postpaid Methods,4,2025
+11688,control,old page,PayPal,2,243
+21507,treatment,new page,Postpaid Methods,6,1100.5
+18802,treatment,new page,Postpaid Methods,5,705.5
+20219,treatment,new page,Apple Pay,5,2822.5
+12303,control,old page,Credit Cards,2,579.5
+23870,treatment,new page,Postpaid Methods,6,2291
+22148,treatment,new page,Apple Pay,4,3224.5
+16808,control,old page,Credit Cards,1,1075.5
+18569,treatment,new page,Credit Cards,5,409
+14743,control,old page,Cash On Delivery (COD),2,593
+21022,treatment,new page,Postpaid Methods,6,2649.5
+23961,treatment,new page,Apple Pay,4,1495.5
+15145,control,old page,Credit Cards,3,331.5
+19850,treatment,new page,Apple Pay,4,887.5
+21268,treatment,new page,Postpaid Methods,6,2184
+23540,treatment,new page,Postpaid Methods,5,3591
+16174,control,old page,PayPal,3,966
+20200,treatment,new page,Postpaid Methods,6,2999.5
+19553,treatment,new page,Postpaid Methods,6,1565
+12789,control,old page,Credit Cards,1,363.5
+21177,treatment,new page,Apple Pay,4,316.5
+13119,control,old page,Cash On Delivery (COD),2,700.5
+18342,treatment,new page,PayPal,6,919
+22886,treatment,new page,Postpaid Methods,4,198.5
+23974,treatment,new page,Apple Pay,4,2480
+17074,control,old page,Cash On Delivery (COD),1,576
+12439,control,old page,PayPal,2,544.5
+17002,control,old page,Credit Cards,1,384
+14368,control,old page,Cash On Delivery (COD),2,998
+19824,treatment,new page,Postpaid Methods,7,1063.5
+23210,treatment,new page,Apple Pay,6,1787.5
+19889,treatment,new page,PayPal,6,2515
+14471,control,old page,Credit Cards,1,854
+21779,treatment,new page,Postpaid Methods,5,591.5
+22608,treatment,new page,Postpaid Methods,4,3820.5
+12180,control,old page,Credit Cards,1,855.5
+16582,control,old page,Cash On Delivery (COD),1,503
+16517,control,old page,Credit Cards,1,658
+22750,treatment,new page,Apple Pay,5,3609.5
+15863,control,old page,PayPal,3,997.5
+12950,control,old page,Credit Cards,1,806
+18452,treatment,new page,Apple Pay,4,287
+18867,treatment,new page,Apple Pay,4,207
+13818,control,old page,Credit Cards,1,915.5
+13403,control,old page,PayPal,3,813
+21786,treatment,new page,Cash On Delivery (COD),6,2704
+12038,control,old page,Cash On Delivery (COD),3,229.5
+16685,control,old page,Credit Cards,3,702.5
+16989,control,old page,Credit Cards,2,544.5
+17468,treatment,new page,Postpaid Methods,4,346
+19397,treatment,new page,Postpaid Methods,4,2007
+21715,treatment,new page,Postpaid Methods,6,1788.5
+20944,treatment,new page,Postpaid Methods,5,1750
+14536,control,old page,PayPal,1,706
+20012,treatment,new page,Credit Cards,5,2268
+11843,control,old page,PayPal,3,1036
+12549,control,old page,Credit Cards,2,476
+20782,treatment,new page,Postpaid Methods,4,3560
+11442,control,old page,Credit Cards,2,733.5
+11695,control,old page,Cash On Delivery (COD),3,1040
+17553,treatment,new page,PayPal,5,3109
+12685,control,old page,Credit Cards,3,896.5
+19423,treatment,new page,Apple Pay,4,3230.5
+20420,treatment,new page,Postpaid Methods,4,693.5
+14840,control,old page,PayPal,2,270
+23495,treatment,new page,Postpaid Methods,4,1026.5
+14323,control,old page,PayPal,2,1014.5
+23611,treatment,new page,Apple Pay,4,520.5
+11416,control,old page,PayPal,2,335.5
+11300,control,old page,Cash On Delivery (COD),3,546.5
+18892,treatment,new page,Apple Pay,5,3049.5
+15242,control,old page,Credit Cards,1,319
+22168,treatment,new page,Credit Cards,6,1274
+22627,treatment,new page,Postpaid Methods,4,1204
+14478,control,old page,PayPal,3,678.5
+20414,treatment,new page,Postpaid Methods,4,951
+14420,control,old page,Cash On Delivery (COD),2,1013
+20860,treatment,new page,Postpaid Methods,6,905.5
+19313,treatment,new page,Apple Pay,4,2196.5
+17792,treatment,new page,Apple Pay,6,500
+14931,control,old page,PayPal,3,635.5
+20064,treatment,new page,Postpaid Methods,6,3090.5
+17274,control,old page,Credit Cards,3,439.5
+22770,treatment,new page,Cash On Delivery (COD),6,2472
+19481,treatment,new page,PayPal,6,3788
+23087,treatment,new page,Postpaid Methods,5,841
+20757,treatment,new page,Postpaid Methods,5,2057.5
+22019,treatment,new page,Postpaid Methods,6,3818
+14724,control,old page,PayPal,2,528.5
+23656,treatment,new page,Apple Pay,4,2006
+15164,control,old page,Credit Cards,3,578.5
+14549,control,old page,Credit Cards,2,1045
+16821,control,old page,Cash On Delivery (COD),2,244
+21054,treatment,new page,Apple Pay,4,317.5
+21954,treatment,new page,Apple Pay,4,510.5
+22847,treatment,new page,Postpaid Methods,4,840
+22880,treatment,new page,Postpaid Methods,5,1331
+21119,treatment,new page,Apple Pay,6,1988.5
+16180,control,old page,PayPal,2,828.5
+11604,control,old page,Cash On Delivery (COD),3,668.5
+19831,treatment,new page,PayPal,5,2630.5
+18685,treatment,new page,Credit Cards,6,1121.5
+18860,treatment,new page,Apple Pay,5,782
+23397,treatment,new page,PayPal,4,3454.5
+17307,control,old page,Credit Cards,3,860
+23915,treatment,new page,Postpaid Methods,4,1338.5
+15824,control,old page,PayPal,2,653
+21242,treatment,new page,Postpaid Methods,4,3536.5
+20543,treatment,new page,Postpaid Methods,4,2141.5
+18310,treatment,new page,Apple Pay,6,3615
+23003,treatment,new page,Apple Pay,4,992.5
+12750,control,old page,Cash On Delivery (COD),1,894.5
+13695,control,old page,PayPal,3,307
+17811,treatment,new page,Apple Pay,6,1425.5
+21255,treatment,new page,Postpaid Methods,6,3726
+23546,treatment,new page,Cash On Delivery (COD),6,638
+23029,treatment,new page,Postpaid Methods,4,2903
+22601,treatment,new page,Postpaid Methods,6,2138
+16543,control,old page,PayPal,2,881
+17850,treatment,new page,Postpaid Methods,5,162.5
+20588,treatment,new page,Postpaid Methods,5,3665.5
+23093,treatment,new page,Postpaid Methods,5,1908.5
+12426,control,old page,PayPal,3,479
+12225,control,old page,PayPal,1,764
+17255,control,old page,Cash On Delivery (COD),4,447.5
+19339,treatment,new page,Apple Pay,6,1568
+13876,control,old page,Cash On Delivery (COD),1,324.5
+12199,control,old page,Cash On Delivery (COD),3,216
+23520,treatment,new page,Apple Pay,5,2762.5
+19611,treatment,new page,Postpaid Methods,5,2874.5
+23203,treatment,new page,Apple Pay,5,2800
+12989,control,old page,Cash On Delivery (COD),3,649
+18070,treatment,new page,PayPal,6,2340.5
+15559,control,old page,Cash On Delivery (COD),3,593
+15844,control,old page,Credit Cards,3,200
+13306,control,old page,Credit Cards,2,206
+19054,treatment,new page,PayPal,6,3875
+22685,treatment,new page,Postpaid Methods,4,2733.5
+23637,treatment,new page,Credit Cards,5,2840.5
+14148,control,old page,PayPal,3,884
+11487,control,old page,Cash On Delivery (COD),3,327
+12342,control,old page,PayPal,3,714.5
+22983,treatment,new page,Postpaid Methods,5,1295.5
+19779,treatment,new page,Postpaid Methods,4,1894
+14866,control,old page,PayPal,1,967
+18983,treatment,new page,Apple Pay,5,1145.5
+22265,treatment,new page,Postpaid Methods,6,723.5
+13811,control,old page,Cash On Delivery (COD),1,901
+22155,treatment,new page,Apple Pay,4,656.5
+13747,control,old page,Cash On Delivery (COD),2,165
+22323,treatment,new page,PayPal,4,243.5
+23844,treatment,new page,Apple Pay,6,3199
+18756,treatment,new page,Postpaid Methods,4,2538.5
+20388,treatment,new page,Postpaid Methods,4,1860.5
+20239,treatment,new page,PayPal,5,792.5
+14821,control,old page,Cash On Delivery (COD),1,865
+15177,control,old page,PayPal,1,871
+17773,treatment,new page,Postpaid Methods,5,1989.5
+11837,control,old page,Credit Cards,2,702.5
+17119,control,old page,Credit Cards,3,376.5
+20750,treatment,new page,Postpaid Methods,6,3892
+20187,treatment,new page,Apple Pay,4,809
+15850,control,old page,Cash On Delivery (COD),2,466.5
+15993,control,old page,Cash On Delivery (COD),1,318.5
+11009,control,old page,Cash On Delivery (COD),1,499
+21689,treatment,new page,Postpaid Methods,5,3137
+13992,control,old page,Cash On Delivery (COD),2,629.5
+16446,control,old page,Cash On Delivery (COD),3,588
+21313,treatment,new page,Credit Cards,5,1199
+22828,treatment,new page,Cash On Delivery (COD),4,3860.5
+22271,treatment,new page,Apple Pay,4,600
+12212,control,old page,PayPal,3,597.5
+20232,treatment,new page,Postpaid Methods,4,299.5
+11436,control,old page,Cash On Delivery (COD),1,464
+18718,treatment,new page,Credit Cards,5,661.5
+23695,treatment,new page,Postpaid Methods,4,3820
+19333,treatment,new page,Postpaid Methods,4,491
+22990,treatment,new page,Apple Pay,4,1949
+12743,control,old page,Credit Cards,1,206
+23579,treatment,new page,Apple Pay,4,1122
+18252,treatment,new page,Postpaid Methods,5,1941
+23022,treatment,new page,Postpaid Methods,5,525.5
+14756,control,old page,Credit Cards,1,263.5
+15695,control,old page,Credit Cards,1,266
+11138,control,old page,Credit Cards,2,379.5
+22420,treatment,new page,Postpaid Methods,4,922
+20698,treatment,new page,Apple Pay,4,2902
+20278,treatment,new page,PayPal,6,301
+20867,treatment,new page,PayPal,4,820
+21164,treatment,new page,Postpaid Methods,4,1214.5
+23876,treatment,new page,Apple Pay,5,1611
+11507,control,old page,PayPal,3,800
+21184,treatment,new page,Postpaid Methods,6,518.5
+13468,control,old page,PayPal,3,920
+19093,treatment,new page,Apple Pay,6,1729.5
+13015,control,old page,Cash On Delivery (COD),3,949.5
+11164,control,old page,Cash On Delivery (COD),2,237
+14679,control,old page,Cash On Delivery (COD),1,716.5
+12335,control,old page,Credit Cards,3,1089
+19494,treatment,new page,Postpaid Methods,6,3637
+16588,control,old page,Cash On Delivery (COD),2,997
+16135,control,old page,PayPal,1,842.5
+15831,control,old page,Credit Cards,1,337.5
+14905,control,old page,Credit Cards,4,188
+22899,treatment,new page,Postpaid Methods,6,1579
+21100,treatment,new page,Postpaid Methods,4,2980.5
+16096,control,old page,Cash On Delivery (COD),1,730
+11889,control,old page,Cash On Delivery (COD),3,425
+18290,treatment,new page,Postpaid Methods,5,523
+14407,control,old page,Credit Cards,3,790.5
+20731,treatment,new page,Cash On Delivery (COD),6,163
+16646,control,old page,Cash On Delivery (COD),2,486
+17565,treatment,new page,Postpaid Methods,5,2381
+21669,treatment,new page,Postpaid Methods,6,925
+23313,treatment,new page,Apple Pay,5,3683.5
+22252,treatment,new page,Postpaid Methods,4,2178
+15093,control,old page,Credit Cards,3,434.5
+15365,control,old page,Cash On Delivery (COD),3,704.5
+14284,control,old page,Credit Cards,1,1068
+17695,treatment,new page,Postpaid Methods,5,1549.5
+14950,control,old page,PayPal,2,1050.5
+20886,treatment,new page,Apple Pay,4,1242.5
+13358,control,old page,Credit Cards,1,865
+21961,treatment,new page,PayPal,4,1133
+11067,control,old page,Credit Cards,3,702
+17138,control,old page,PayPal,3,872.5
+19184,treatment,new page,Postpaid Methods,6,3070.5
+21430,treatment,new page,Apple Pay,4,1968.5
+16006,control,old page,Credit Cards,3,432.5
+19721,treatment,new page,PayPal,7,3216
+18245,treatment,new page,Postpaid Methods,4,3626.5
+19812,treatment,new page,Cash On Delivery (COD),5,1420.5
+22368,treatment,new page,Apple Pay,6,3900.5
+13533,control,old page,Cash On Delivery (COD),1,452.5
+11332,control,old page,PayPal,2,357.5
+18640,treatment,new page,Postpaid Methods,4,686
+21766,treatment,new page,Apple Pay,5,2467.5
+22912,treatment,new page,Apple Pay,5,638.5
+17086,control,old page,Credit Cards,3,294
+14795,control,old page,PayPal,2,821
+11235,control,old page,Cash On Delivery (COD),2,1089.5
+15747,control,old page,PayPal,1,216
+19365,treatment,new page,PayPal,4,1077.5
+12258,control,old page,PayPal,1,182.5
+15326,control,old page,Credit Cards,2,288
+23054,treatment,new page,Postpaid Methods,5,2169
+21197,treatment,new page,Postpaid Methods,4,3316
+19087,treatment,new page,Apple Pay,4,1461
+22025,treatment,new page,PayPal,4,1026.5
+23048,treatment,new page,Apple Pay,5,2936.5
+16465,control,old page,PayPal,2,235
+20051,treatment,new page,Postpaid Methods,4,3228.5
+13397,control,old page,Cash On Delivery (COD),2,667
+21941,treatment,new page,Postpaid Methods,5,3295
+17656,treatment,new page,Cash On Delivery (COD),5,981.5
+15190,control,old page,PayPal,2,168
+16057,control,old page,Credit Cards,1,746
+16439,control,old page,Cash On Delivery (COD),3,780
+13999,control,old page,Cash On Delivery (COD),1,1039.5
+21248,treatment,new page,Cash On Delivery (COD),4,2360
+11643,control,old page,Credit Cards,2,988
+14128,control,old page,Cash On Delivery (COD),3,494.5
+20226,treatment,new page,Postpaid Methods,6,3741.5
+21850,treatment,new page,Postpaid Methods,5,2202
+15818,control,old page,PayPal,2,934.5
+13390,control,old page,Credit Cards,3,1027.5
+13352,control,old page,Cash On Delivery (COD),3,919.5
+14504,control,old page,Credit Cards,2,936.5
+13255,control,old page,Cash On Delivery (COD),1,739
+20401,treatment,new page,Postpaid Methods,6,421
+19475,treatment,new page,Postpaid Methods,6,3477.5
+12407,control,old page,Credit Cards,2,826
+14381,control,old page,Cash On Delivery (COD),3,978
+15552,control,old page,Credit Cards,1,1031
+12724,control,old page,Cash On Delivery (COD),2,396.5
+21546,treatment,new page,Apple Pay,5,305.5
+16044,control,old page,Cash On Delivery (COD),3,428.5
+13280,control,old page,Credit Cards,3,822
+23747,treatment,new page,Apple Pay,7,2966.5
+21067,treatment,new page,Credit Cards,4,3372.5
+13287,control,old page,Credit Cards,1,337
+23391,treatment,new page,Postpaid Methods,6,594.5
+13908,control,old page,PayPal,3,515
+19462,treatment,new page,Apple Pay,6,3046.5
+15216,control,old page,PayPal,1,482.5
+21294,treatment,new page,Postpaid Methods,5,3091.5
+19417,treatment,new page,Credit Cards,5,192
+12148,control,old page,Credit Cards,2,1046
+18154,treatment,new page,Credit Cards,6,2550.5
+22517,treatment,new page,Apple Pay,5,3683.5
+23255,treatment,new page,Postpaid Methods,6,1519
+23041,treatment,new page,Apple Pay,5,1835.5
+14090,control,old page,PayPal,1,399
+18944,treatment,new page,Postpaid Methods,5,3317
+23080,treatment,new page,Postpaid Methods,4,1535.5
+15857,control,old page,Cash On Delivery (COD),4,1065
+18659,treatment,new page,Postpaid Methods,4,1513.5
+17261,control,old page,Credit Cards,1,235
+19656,treatment,new page,Postpaid Methods,4,204.5
+18109,treatment,new page,Postpaid Methods,5,3371
+13792,control,old page,PayPal,2,236
+20925,treatment,new page,Apple Pay,4,2169
+19456,treatment,new page,PayPal,6,395
+16769,control,old page,PayPal,2,219
+11941,control,old page,PayPal,1,1068
+22135,treatment,new page,PayPal,6,2983
+19100,treatment,new page,Postpaid Methods,4,1281
+14918,control,old page,Cash On Delivery (COD),2,971
+11384,control,old page,Cash On Delivery (COD),3,740
+22556,treatment,new page,Apple Pay,6,3101
+23242,treatment,new page,Postpaid Methods,6,596.5
+20841,treatment,new page,Apple Pay,5,2477.5
+20491,treatment,new page,Postpaid Methods,4,2292
+20627,treatment,new page,Credit Cards,6,2976.5
+22640,treatment,new page,Apple Pay,4,704.5
+16128,control,old page,PayPal,2,221.5
+23592,treatment,new page,Postpaid Methods,6,2902
+15488,control,old page,PayPal,3,942
+19171,treatment,new page,Postpaid Methods,6,2068
+13099,control,old page,Cash On Delivery (COD),3,404.5
+23197,treatment,new page,Postpaid Methods,5,3304
+17242,control,old page,Credit Cards,1,797.5
+19041,treatment,new page,PayPal,4,3618.5
+16743,control,old page,PayPal,3,575
+13941,control,old page,Cash On Delivery (COD),1,781.5
+11144,control,old page,Cash On Delivery (COD),1,507.5
+22485,treatment,new page,Postpaid Methods,6,622.5
+18174,treatment,new page,Postpaid Methods,5,2111.5
+12394,control,old page,Cash On Delivery (COD),1,225.5
+15779,control,old page,Cash On Delivery (COD),3,332.5
+16905,control,old page,PayPal,2,696.5
+23605,treatment,new page,Apple Pay,5,1073.5
+11682,control,old page,PayPal,3,327.5
+21935,treatment,new page,Apple Pay,5,1520.5
+14594,control,old page,Credit Cards,3,675.5
+22103,treatment,new page,Postpaid Methods,4,3011.5
+11455,control,old page,Credit Cards,2,636
+21708,treatment,new page,PayPal,6,3040
+22543,treatment,new page,Postpaid Methods,6,1714.5
+13779,control,old page,Cash On Delivery (COD),2,513
+13643,control,old page,Cash On Delivery (COD),1,352.5
+13326,control,old page,PayPal,3,758.5
+23216,treatment,new page,Postpaid Methods,5,532.5
+13028,control,old page,Credit Cards,3,523
+20530,treatment,new page,Apple Pay,4,1101.5
+14225,control,old page,Credit Cards,2,1011.5
+16387,control,old page,Credit Cards,4,478
+23682,treatment,new page,Apple Pay,4,2411
+21637,treatment,new page,Apple Pay,4,2753
+11598,control,old page,Cash On Delivery (COD),1,315
+16064,control,old page,Cash On Delivery (COD),2,1089
+12400,control,old page,Cash On Delivery (COD),1,686
+20129,treatment,new page,Postpaid Methods,4,593.5
+18646,treatment,new page,Apple Pay,6,624
+18355,treatment,new page,Postpaid Methods,6,1423.5
+13106,control,old page,PayPal,2,952.5
+15501,control,old page,Credit Cards,1,436.5
+22245,treatment,new page,Postpaid Methods,6,2958.5
+12025,control,old page,Cash On Delivery (COD),1,570.5
+17041,control,old page,Cash On Delivery (COD),2,608
+15319,control,old page,Cash On Delivery (COD),3,317
+22187,treatment,new page,Postpaid Methods,5,3788.5
+14769,control,old page,Cash On Delivery (COD),1,1056.5
+19203,treatment,new page,Apple Pay,7,1866.5
+12219,control,old page,PayPal,1,198.5
+11921,control,old page,Cash On Delivery (COD),2,416
+11119,control,old page,PayPal,3,221
+23799,treatment,new page,Credit Cards,5,2065
+19617,treatment,new page,Postpaid Methods,4,1685
+14530,control,old page,Credit Cards,3,849
+23164,treatment,new page,Cash On Delivery (COD),5,1023.5
+11591,control,old page,Credit Cards,3,302
+22181,treatment,new page,Postpaid Methods,5,334
+22355,treatment,new page,Apple Pay,6,890.5
+21598,treatment,new page,PayPal,4,826
+19637,treatment,new page,Apple Pay,5,796
+20802,treatment,new page,Apple Pay,6,305.5
+20918,treatment,new page,Apple Pay,7,1753.5
+11183,control,old page,Credit Cards,1,730.5
+14361,control,old page,Credit Cards,3,269
+21909,treatment,new page,Apple Pay,6,1075.5
+12691,control,old page,Cash On Delivery (COD),3,1018.5
+17688,treatment,new page,Credit Cards,4,736
+19669,treatment,new page,Apple Pay,6,3450
+11203,control,old page,Credit Cards,1,427.5
+12672,control,old page,Cash On Delivery (COD),3,420
+13242,control,old page,Cash On Delivery (COD),3,231.5
+18277,treatment,new page,Postpaid Methods,5,3112.5
+14802,control,old page,Credit Cards,1,622.5
+12666,control,old page,Cash On Delivery (COD),1,794.5
+20265,treatment,new page,Credit Cards,6,2083
+16271,control,old page,Cash On Delivery (COD),2,547
+17475,treatment,new page,Postpaid Methods,7,1533
+14051,control,old page,PayPal,3,517
+21844,treatment,new page,Apple Pay,6,336
+19074,treatment,new page,Postpaid Methods,4,2707
+22381,treatment,new page,Postpaid Methods,4,3338.5
+23831,treatment,new page,Postpaid Methods,6,3000.5
+19235,treatment,new page,Postpaid Methods,6,2084
+22012,treatment,new page,Apple Pay,5,2027.5
+14154,control,old page,Credit Cards,1,779
+15889,control,old page,Credit Cards,1,331
+20718,treatment,new page,Apple Pay,4,2794
+19566,treatment,new page,Credit Cards,4,2068
+23139,treatment,new page,Apple Pay,4,2848
+12018,control,old page,Cash On Delivery (COD),3,373
+23074,treatment,new page,Postpaid Methods,7,2771.5
+21346,treatment,new page,Postpaid Methods,5,3845
+15158,control,old page,Cash On Delivery (COD),1,1020
+18964,treatment,new page,Postpaid Methods,6,3170.5
+16724,control,old page,Credit Cards,1,471
+12031,control,old page,Credit Cards,2,869
+22893,treatment,new page,Postpaid Methods,5,1607.5
+11539,control,old page,Cash On Delivery (COD),1,182.5
+17184,control,old page,Credit Cards,1,612.5
+16148,control,old page,PayPal,2,235.5
+14782,control,old page,PayPal,1,215.5
+12782,control,old page,PayPal,1,830.5
+14847,control,old page,PayPal,2,260.5
+21203,treatment,new page,Apple Pay,4,1599
+21015,treatment,new page,Postpaid Methods,4,1378.5
+16705,control,old page,Cash On Delivery (COD),3,170.5
+23624,treatment,new page,Postpaid Methods,4,3724.5
+13462,control,old page,Credit Cards,2,759.5
+22032,treatment,new page,Apple Pay,4,2983.5
+16737,control,old page,Credit Cards,2,689
+16336,control,old page,Credit Cards,2,828
+20595,treatment,new page,PayPal,4,882.5
+13138,control,old page,Credit Cards,1,626.5
+23980,treatment,new page,Apple Pay,4,1136.5
+16569,control,old page,Credit Cards,1,465.5
+18711,treatment,new page,Apple Pay,5,2284.5
+20045,treatment,new page,Postpaid Methods,4,2833
+17417,treatment,new page,Apple Pay,5,1990
+18912,treatment,new page,Apple Pay,4,2077.5
+15598,control,old page,Credit Cards,2,536
+13041,control,old page,Credit Cards,1,890
+16718,control,old page,PayPal,3,637.5
+16109,control,old page,Cash On Delivery (COD),2,525.5
+22834,treatment,new page,Credit Cards,6,3668.5
+19410,treatment,new page,Postpaid Methods,6,1331.5
+18265,treatment,new page,Postpaid Methods,5,1686
+15080,control,old page,Cash On Delivery (COD),3,205
+11999,control,old page,Credit Cards,2,206
+16873,control,old page,PayPal,1,322
+12413,control,old page,PayPal,1,861
+21041,treatment,new page,Apple Pay,5,1618
+17430,treatment,new page,Postpaid Methods,6,3086
+17993,treatment,new page,Apple Pay,4,2545.5
+21397,treatment,new page,Apple Pay,4,924.5
+13449,control,old page,Cash On Delivery (COD),1,522.5
+16679,control,old page,PayPal,1,748.5
+13585,control,old page,PayPal,3,817.5
+17740,treatment,new page,Credit Cards,6,3012
+20608,treatment,new page,Apple Pay,4,1381.5
+21915,treatment,new page,Postpaid Methods,4,3300.5
+21494,treatment,new page,Apple Pay,5,2873.5
+17248,control,old page,Credit Cards,1,951.5
+21462,treatment,new page,Credit Cards,6,2258.5
+15805,control,old page,Credit Cards,1,988.5
+21423,treatment,new page,Cash On Delivery (COD),5,2982
+13727,control,old page,Cash On Delivery (COD),2,887
+13410,control,old page,Credit Cards,3,847
+23779,treatment,new page,Credit Cards,4,3435.5
+15999,control,old page,PayPal,2,714
+13714,control,old page,Credit Cards,1,278.5
+17954,treatment,new page,Credit Cards,6,562.5
+18989,treatment,new page,PayPal,7,2367
+21229,treatment,new page,Postpaid Methods,5,2505.5
+23501,treatment,new page,PayPal,7,1006.5
+23346,treatment,new page,Cash On Delivery (COD),6,1965.5
+18886,treatment,new page,Postpaid Methods,4,1038
+16549,control,old page,Cash On Delivery (COD),2,854
+15151,control,old page,Cash On Delivery (COD),3,1042
+20582,treatment,new page,Apple Pay,5,279.5
+20032,treatment,new page,Postpaid Methods,5,1115.5
+14879,control,old page,Cash On Delivery (COD),1,1041
+20019,treatment,new page,Apple Pay,5,760.5
+13954,control,old page,Cash On Delivery (COD),2,813.5
+21676,treatment,new page,PayPal,4,2115.5
+13112,control,old page,Credit Cards,1,882
+22116,treatment,new page,Credit Cards,6,2857.5
+12860,control,old page,Cash On Delivery (COD),2,391
+13967,control,old page,Cash On Delivery (COD),2,697
+23372,treatment,new page,Postpaid Methods,5,3771
+15410,control,old page,PayPal,1,723.5
+16083,control,old page,Credit Cards,2,405
+23067,treatment,new page,Apple Pay,5,2495
+23909,treatment,new page,Postpaid Methods,4,1751
+16756,control,old page,Credit Cards,3,342
+23229,treatment,new page,Credit Cards,6,188.5
+12886,control,old page,PayPal,2,314
+14187,control,old page,PayPal,1,413
+14620,control,old page,PayPal,3,271.5
+19676,treatment,new page,Apple Pay,6,2053
+17462,treatment,new page,Cash On Delivery (COD),5,2003.5
+16025,control,old page,Credit Cards,1,266.5
+14484,control,old page,Credit Cards,2,1067.5
+18051,treatment,new page,PayPal,4,2351
+11986,control,old page,PayPal,3,617.5
+14912,control,old page,Credit Cards,3,273
+17701,treatment,new page,Postpaid Methods,4,2040.5
+16355,control,old page,Cash On Delivery (COD),1,279.5
+13073,control,old page,Cash On Delivery (COD),2,896
+16789,control,old page,Credit Cards,2,638
+22096,treatment,new page,Postpaid Methods,7,2335
+16595,control,old page,PayPal,4,637.5
+15060,control,old page,Credit Cards,2,934
+20439,treatment,new page,Postpaid Methods,4,2927.5
+15637,control,old page,PayPal,3,294.5
+11274,control,old page,PayPal,2,837.5
+18161,treatment,new page,Cash On Delivery (COD),5,2316
+21650,treatment,new page,Credit Cards,4,3061.5
+16698,control,old page,PayPal,1,621
+18957,treatment,new page,Apple Pay,4,2188.5
+15261,control,old page,PayPal,3,845
+23249,treatment,new page,Apple Pay,4,1158
+18763,treatment,new page,Apple Pay,6,557.5
+11041,control,old page,Cash On Delivery (COD),3,419.5
+22763,treatment,new page,Postpaid Methods,6,1016
+13319,control,old page,Cash On Delivery (COD),1,814.5
+19792,treatment,new page,Postpaid Methods,6,3727.5
+20569,treatment,new page,Apple Pay,6,302
+16193,control,old page,Credit Cards,2,965
+16018,control,old page,Credit Cards,2,478
+16206,control,old page,Credit Cards,1,331.5
+16116,control,old page,Credit Cards,3,570
+21566,treatment,new page,Apple Pay,6,1201
+21682,treatment,new page,Apple Pay,6,2374.5
+17714,treatment,new page,Credit Cards,5,758.5
+18187,treatment,new page,Apple Pay,5,2126.5
+18498,treatment,new page,Apple Pay,5,2561.5
+20938,treatment,new page,Postpaid Methods,4,1210.5
+15934,control,old page,Cash On Delivery (COD),2,852
+18679,treatment,new page,Postpaid Methods,6,2019
+14238,control,old page,PayPal,3,755.5
+13973,control,old page,PayPal,1,923
+15041,control,old page,Credit Cards,1,301.5
+11429,control,old page,Credit Cards,2,922
+16290,control,old page,Cash On Delivery (COD),3,170.5
+11073,control,old page,Cash On Delivery (COD),2,205
+19799,treatment,new page,Postpaid Methods,6,575
+11623,control,old page,Cash On Delivery (COD),1,691
+17158,control,old page,Cash On Delivery (COD),2,169
+21818,treatment,new page,Postpaid Methods,6,280
+21559,treatment,new page,Apple Pay,4,2825.5
+17604,treatment,new page,Credit Cards,5,1814.5
+14374,control,old page,Credit Cards,1,405
+21404,treatment,new page,Apple Pay,4,2401.5
+23857,treatment,new page,Apple Pay,5,1431
+16672,control,old page,PayPal,2,191
+22621,treatment,new page,Cash On Delivery (COD),5,3652.5
+19896,treatment,new page,Apple Pay,6,2277
+21663,treatment,new page,Postpaid Methods,4,2544.5
+16575,control,old page,Cash On Delivery (COD),3,609
+17222,control,old page,Credit Cards,2,1081.5
+14834,control,old page,Credit Cards,1,956.5
+16666,control,old page,Credit Cards,3,772
+14543,control,old page,Credit Cards,3,302
+23100,treatment,new page,Apple Pay,4,1167
+14329,control,old page,PayPal,1,989
+16258,control,old page,PayPal,2,898.5
+13559,control,old page,Credit Cards,2,346
+15591,control,old page,Cash On Delivery (COD),3,977
+13190,control,old page,Credit Cards,2,448.5
+21009,treatment,new page,Apple Pay,5,645.5
+15132,control,old page,Cash On Delivery (COD),2,361
+19883,treatment,new page,Apple Pay,5,201.5
+13365,control,old page,PayPal,1,174.5
+16815,control,old page,Cash On Delivery (COD),2,221
+13591,control,old page,Credit Cards,3,318.5
+12983,control,old page,Credit Cards,2,1039
+20634,treatment,new page,PayPal,5,3275.5
+20659,treatment,new page,Postpaid Methods,6,2509.5
+15546,control,old page,PayPal,2,578
+18705,treatment,new page,PayPal,4,2011
+23184,treatment,new page,Apple Pay,5,1216.5
+19682,treatment,new page,Apple Pay,5,209
+15203,control,old page,PayPal,2,961.5
+19598,treatment,new page,PayPal,6,2962
+14310,control,old page,Cash On Delivery (COD),2,935.5
+19197,treatment,new page,Apple Pay,4,2005.5
+19954,treatment,new page,Apple Pay,6,161
+23663,treatment,new page,Postpaid Methods,6,3778.5
+15423,control,old page,Credit Cards,1,273
+15578,control,old page,PayPal,1,1033
+14614,control,old page,Credit Cards,1,281
+21695,treatment,new page,Cash On Delivery (COD),5,1076.5
+18193,treatment,new page,Postpaid Methods,4,1187
+19663,treatment,new page,Credit Cards,5,235
+17177,control,old page,Credit Cards,2,715
+17488,treatment,new page,Postpaid Methods,4,2421
+17889,treatment,new page,Postpaid Methods,4,3872
+12834,control,old page,Credit Cards,1,282.5
+23792,treatment,new page,Postpaid Methods,4,1220.5
+17397,treatment,new page,Credit Cards,4,2557
+18426,treatment,new page,Postpaid Methods,4,1599.5
+14627,control,old page,PayPal,2,1054
+23643,treatment,new page,Apple Pay,6,2574
+20977,treatment,new page,PayPal,5,1843.5
+18064,treatment,new page,PayPal,6,816
+20407,treatment,new page,Postpaid Methods,5,3001.5
+23274,treatment,new page,Postpaid Methods,5,1327.5
+12543,control,old page,PayPal,2,775
+17313,control,old page,Cash On Delivery (COD),2,896.5
+19805,treatment,new page,Credit Cards,5,3405
+23268,treatment,new page,Apple Pay,7,3610.5
+11876,control,old page,Cash On Delivery (COD),1,317
+13222,control,old page,Cash On Delivery (COD),1,176
+20258,treatment,new page,Postpaid Methods,4,369.5
+22744,treatment,new page,Postpaid Methods,6,1153
+23728,treatment,new page,Postpaid Methods,6,3643
+15701,control,old page,Credit Cards,2,851
+13203,control,old page,PayPal,3,838
+20180,treatment,new page,Apple Pay,4,2766.5
+14342,control,old page,Credit Cards,3,1077
+18316,treatment,new page,Postpaid Methods,5,2822.5
+21553,treatment,new page,Postpaid Methods,5,1172.5
+14122,control,old page,Cash On Delivery (COD),3,625.5
+23533,treatment,new page,Apple Pay,5,2671
+21624,treatment,new page,Apple Pay,6,3686
+11293,control,old page,PayPal,2,1091
+17870,treatment,new page,Apple Pay,4,1423
+17442,treatment,new page,Apple Pay,5,186.5
+17332,control,old page,Credit Cards,1,952
+22724,treatment,new page,Postpaid Methods,6,1543.5
+23838,treatment,new page,Apple Pay,6,2610
+11099,control,old page,Credit Cards,3,557.5
+17125,control,old page,Credit Cards,3,348.5
+22038,treatment,new page,Postpaid Methods,4,2031.5
+15138,control,old page,Credit Cards,2,971.5
+20155,treatment,new page,Postpaid Methods,4,2563
+11326,control,old page,Credit Cards,1,750.5
+23294,treatment,new page,Apple Pay,4,764
+21391,treatment,new page,PayPal,5,1273.5
+18724,treatment,new page,Cash On Delivery (COD),5,3260
+20006,treatment,new page,Apple Pay,5,2859.5
+21106,treatment,new page,Postpaid Methods,5,2024.5
+19009,treatment,new page,Apple Pay,5,2475.5
+11727,control,old page,Credit Cards,1,564
+19941,treatment,new page,Cash On Delivery (COD),6,3796
+18815,treatment,new page,PayPal,4,1520
+14446,control,old page,PayPal,3,535
+21740,treatment,new page,Apple Pay,4,1880.5
+21190,treatment,new page,Postpaid Methods,4,784
+22388,treatment,new page,Postpaid Methods,4,3190.5
+19818,treatment,new page,Apple Pay,4,881.5
+12614,control,old page,PayPal,1,498.5
+16251,control,old page,PayPal,3,910.5
+19210,treatment,new page,Apple Pay,4,1575
+13054,control,old page,Credit Cards,3,233
+20575,treatment,new page,Apple Pay,6,3868.5
+13164,control,old page,PayPal,3,389
+23676,treatment,new page,Apple Pay,6,3109
+13798,control,old page,Cash On Delivery (COD),3,714
+11617,control,old page,PayPal,1,184.5
+23035,treatment,new page,Postpaid Methods,7,2179
+23126,treatment,new page,Credit Cards,4,1985.5
+16620,control,old page,PayPal,2,800
+22304,treatment,new page,Apple Pay,5,2282.5
+23883,treatment,new page,Postpaid Methods,6,1598
+14057,control,old page,Credit Cards,4,308
+12678,control,old page,PayPal,2,514
+22317,treatment,new page,Apple Pay,5,2436.5
+11753,control,old page,Cash On Delivery (COD),1,1047.5
+19546,treatment,new page,Postpaid Methods,6,1867
+12277,control,old page,PayPal,1,1069
+13481,control,old page,Credit Cards,1,911
+15611,control,old page,Credit Cards,1,250
+16303,control,old page,PayPal,3,368
+17520,treatment,new page,Postpaid Methods,5,763
+23061,treatment,new page,Credit Cards,4,2929.5
+15048,control,old page,Cash On Delivery (COD),3,1043.5
+18297,treatment,new page,Cash On Delivery (COD),5,1915
+15475,control,old page,Cash On Delivery (COD),1,274.5
+23262,treatment,new page,Apple Pay,4,2444.5
+18038,treatment,new page,Postpaid Methods,4,3389.5
+23385,treatment,new page,Postpaid Methods,5,3281.5
+12698,control,old page,Credit Cards,2,745
+17559,treatment,new page,Postpaid Methods,4,3431
+13928,control,old page,Credit Cards,1,1038
+12284,control,old page,Credit Cards,1,936.5
+18543,treatment,new page,Postpaid Methods,6,3426
+22090,treatment,new page,Postpaid Methods,4,1824
+14497,control,old page,PayPal,3,249.5
+22562,treatment,new page,Apple Pay,4,1371.5
+12174,control,old page,Credit Cards,2,1046
+19307,treatment,new page,Postpaid Methods,4,3389
+20426,treatment,new page,Cash On Delivery (COD),4,3631.5
+19766,treatment,new page,Apple Pay,6,1091
+19151,treatment,new page,Postpaid Methods,5,2203.5
+16834,control,old page,Credit Cards,2,535
+21307,treatment,new page,Cash On Delivery (COD),4,1690
+22077,treatment,new page,Postpaid Methods,4,3730
+19488,treatment,new page,Postpaid Methods,4,2024.5
+16200,control,old page,Credit Cards,2,639
+12601,control,old page,Credit Cards,1,559
+22129,treatment,new page,Apple Pay,5,2573
+12653,control,old page,PayPal,3,515.5
+17921,treatment,new page,Credit Cards,5,1245.5
+12491,control,old page,Credit Cards,3,898
+14316,control,old page,Cash On Delivery (COD),2,713
+12517,control,old page,PayPal,3,381
+11863,control,old page,Credit Cards,1,469
+12271,control,old page,PayPal,3,897.5
+13022,control,old page,PayPal,1,751
+20737,treatment,new page,Apple Pay,4,853
+21035,treatment,new page,Apple Pay,5,3659
+23190,treatment,new page,Apple Pay,5,2993
+23715,treatment,new page,Apple Pay,5,2021.5
+22944,treatment,new page,Apple Pay,6,3396
+15954,control,old page,PayPal,2,1087
+12594,control,old page,Credit Cards,3,801
+22918,treatment,new page,Postpaid Methods,6,1748.5
+17028,control,old page,PayPal,2,1023.5
+21359,treatment,new page,Postpaid Methods,5,2406.5
+15378,control,old page,Cash On Delivery (COD),1,1022
+11785,control,old page,PayPal,4,949
+18666,treatment,new page,Postpaid Methods,4,3004.5
+16297,control,old page,PayPal,1,806
+13339,control,old page,PayPal,2,621
+11449,control,old page,Cash On Delivery (COD),1,284
+21520,treatment,new page,Apple Pay,6,3683
+17378,treatment,new page,Apple Pay,4,2824
+17371,treatment,new page,Cash On Delivery (COD),5,3318.5
+16847,control,old page,Credit Cards,2,754
+23287,treatment,new page,Postpaid Methods,4,3341.5
+21138,treatment,new page,Apple Pay,6,1588
+16161,control,old page,Cash On Delivery (COD),2,932
+17449,treatment,new page,Postpaid Methods,6,2376.5
+16349,control,old page,Credit Cards,1,820.5
+17708,treatment,new page,Apple Pay,4,1847
+11125,control,old page,Cash On Delivery (COD),2,1042.5
+18523,treatment,new page,Postpaid Methods,4,500.5
+20316,treatment,new page,Apple Pay,5,3445.5
+15028,control,old page,Cash On Delivery (COD),3,624
+13630,control,old page,Credit Cards,3,383
+22446,treatment,new page,Apple Pay,4,2336.5
+20271,treatment,new page,Postpaid Methods,6,3412.5
+23753,treatment,new page,Credit Cards,4,2993.5
+18536,treatment,new page,Postpaid Methods,4,1867.5
+20562,treatment,new page,PayPal,6,2616
+22660,treatment,new page,Apple Pay,4,491
+19630,treatment,new page,Postpaid Methods,6,1441.5
+15727,control,old page,Cash On Delivery (COD),1,600.5
+22582,treatment,new page,Cash On Delivery (COD),4,615.5
+16103,control,old page,PayPal,3,918
+18731,treatment,new page,Apple Pay,6,2918.5
+17281,control,old page,PayPal,2,1000.5
+17527,treatment,new page,Apple Pay,4,2325
+22051,treatment,new page,Apple Pay,6,2264
+15650,control,old page,PayPal,2,913.5
+15714,control,old page,Cash On Delivery (COD),3,644.5
+15442,control,old page,PayPal,1,231.5
+14264,control,old page,Credit Cards,1,1089
+14523,control,old page,Cash On Delivery (COD),2,685
+15565,control,old page,Cash On Delivery (COD),2,921.5
+22860,treatment,new page,Credit Cards,4,3187.5
+21857,treatment,new page,Postpaid Methods,6,2172.5
+21883,treatment,new page,Postpaid Methods,4,2774
+22459,treatment,new page,Cash On Delivery (COD),4,225.5
+12607,control,old page,Credit Cards,2,196.5
+13598,control,old page,PayPal,1,210.5
+18388,treatment,new page,Credit Cards,6,205
+16187,control,old page,PayPal,1,728.5
+13170,control,old page,Cash On Delivery (COD),4,745.5
+19300,treatment,new page,Postpaid Methods,5,3369.5
+12420,control,old page,PayPal,3,720.5
+20711,treatment,new page,Apple Pay,4,3282
+12588,control,old page,Cash On Delivery (COD),2,1035.5
+23928,treatment,new page,Credit Cards,6,2942.5
+18032,treatment,new page,Postpaid Methods,4,2274.5
+11112,control,old page,Credit Cards,1,369
+13345,control,old page,Cash On Delivery (COD),3,739
+11979,control,old page,Credit Cards,2,1071.5
+12096,control,old page,Credit Cards,2,262.5
+23922,treatment,new page,PayPal,4,2385
+19708,treatment,new page,Credit Cards,4,917.5
+23430,treatment,new page,PayPal,6,1812.5
+12005,control,old page,Credit Cards,3,206
+23805,treatment,new page,Apple Pay,5,2853
+23145,treatment,new page,Apple Pay,6,937.5
+19274,treatment,new page,Apple Pay,4,3145
+17099,control,old page,Cash On Delivery (COD),2,203.5
+21274,treatment,new page,Credit Cards,4,3166
+18349,treatment,new page,Credit Cards,6,2327.5
+12316,control,old page,Cash On Delivery (COD),2,398
+11021,control,old page,Cash On Delivery (COD),3,918
+14575,control,old page,PayPal,3,259.5
+21087,treatment,new page,Apple Pay,5,524.5
+19352,treatment,new page,Postpaid Methods,4,3542
+17857,treatment,new page,Apple Pay,4,1099
+17048,control,old page,Cash On Delivery (COD),1,902
+11733,control,old page,PayPal,1,327
+16264,control,old page,Credit Cards,2,524
+13604,control,old page,Credit Cards,1,917.5
+11520,control,old page,Cash On Delivery (COD),2,690.5
+15883,control,old page,Credit Cards,3,483.5
+11352,control,old page,PayPal,3,914.5
+20873,treatment,new page,Apple Pay,6,2807.5
+17494,treatment,new page,Cash On Delivery (COD),6,1138.5
+11261,control,old page,Cash On Delivery (COD),3,1050.5
+13546,control,old page,PayPal,2,240
+20983,treatment,new page,Postpaid Methods,5,3511
+21113,treatment,new page,Postpaid Methods,5,3434
+12161,control,old page,Credit Cards,3,1073.5
+14607,control,old page,Credit Cards,3,735
+15209,control,old page,PayPal,1,746.5
+18381,treatment,new page,Postpaid Methods,6,2126.5
+14303,control,old page,Credit Cards,1,982
+21048,treatment,new page,Postpaid Methods,4,2477.5
+22342,treatment,new page,Postpaid Methods,4,2608
+17106,control,old page,Credit Cards,3,358
+22278,treatment,new page,Apple Pay,6,2042.5
+16342,control,old page,Cash On Delivery (COD),3,201.5
+13080,control,old page,Cash On Delivery (COD),1,274
+13688,control,old page,Credit Cards,1,618.5
+17617,treatment,new page,Apple Pay,5,2631.5
+13617,control,old page,PayPal,1,1062.5
+11565,control,old page,Credit Cards,1,176.5
+15281,control,old page,Credit Cards,1,471.5
+13649,control,old page,Cash On Delivery (COD),3,828.5
+17598,treatment,new page,Postpaid Methods,4,3015.5
+13740,control,old page,Cash On Delivery (COD),1,953
+14633,control,old page,Cash On Delivery (COD),3,735.5
+21223,treatment,new page,Postpaid Methods,5,3394
+23760,treatment,new page,Postpaid Methods,6,1327.5
+23359,treatment,new page,PayPal,6,696.5
+21326,treatment,new page,Cash On Delivery (COD),6,2144.5
+18782,treatment,new page,Postpaid Methods,5,1293
+15514,control,old page,Credit Cards,1,236
+20472,treatment,new page,Apple Pay,6,2778.5
+15481,control,old page,PayPal,1,234.5
+13093,control,old page,PayPal,3,553.5
+13669,control,old page,Cash On Delivery (COD),2,382.5
+23559,treatment,new page,PayPal,5,3128.5
+16478,control,old page,Credit Cards,3,1020.5
+23896,treatment,new page,Postpaid Methods,4,285
+15332,control,old page,Cash On Delivery (COD),3,873
+15371,control,old page,Credit Cards,2,417
+13572,control,old page,PayPal,2,784
+11177,control,old page,PayPal,1,1025
+21747,treatment,new page,Apple Pay,5,1533.5
+13850,control,old page,PayPal,1,265.5
+16938,control,old page,Credit Cards,2,838
+12957,control,old page,Cash On Delivery (COD),3,677.5
+23410,treatment,new page,Credit Cards,6,3774.5
+23766,treatment,new page,Apple Pay,4,933
+14232,control,old page,Credit Cards,3,321.5
+11662,control,old page,PayPal,3,186.5
+19935,treatment,new page,Apple Pay,6,2466.5
+11248,control,old page,Cash On Delivery (COD),2,177.5
+23812,treatment,new page,Apple Pay,5,606
+17197,control,old page,Cash On Delivery (COD),3,335.5
+17934,treatment,new page,Apple Pay,5,3411
+20252,treatment,new page,Credit Cards,6,572
+17682,treatment,new page,Apple Pay,4,1455.5
+21656,treatment,new page,PayPal,6,709.5
+11229,control,old page,PayPal,1,597
+13442,control,old page,PayPal,2,1087.5
+16530,control,old page,Cash On Delivery (COD),3,674.5
+11390,control,old page,Credit Cards,1,1030.5
+11895,control,old page,PayPal,2,255.5
+11721,control,old page,Cash On Delivery (COD),3,738.5
+19125,treatment,new page,Credit Cards,6,3839.5
+21236,treatment,new page,Postpaid Methods,5,3866.5
+20705,treatment,new page,Cash On Delivery (COD),4,1725
+23119,treatment,new page,Postpaid Methods,5,3373.5
+20362,treatment,new page,Apple Pay,4,2381
+12937,control,old page,PayPal,1,404.5
+11196,control,old page,PayPal,1,971
+13785,control,old page,PayPal,1,876
+14569,control,old page,PayPal,3,282
+18167,treatment,new page,Postpaid Methods,4,733
+20640,treatment,new page,Postpaid Methods,4,2567.5
+20038,treatment,new page,Apple Pay,5,1779.5
+18439,treatment,new page,Apple Pay,4,3613
+20964,treatment,new page,Apple Pay,6,755.5
+20459,treatment,new page,Postpaid Methods,5,182
+16491,control,old page,Cash On Delivery (COD),3,557
+23818,treatment,new page,Apple Pay,4,1535
+14115,control,old page,Credit Cards,3,471.5
+17909,treatment,new page,Postpaid Methods,5,2461
+20524,treatment,new page,Apple Pay,6,1951
+17035,control,old page,Credit Cards,1,843.5
+18614,treatment,new page,Credit Cards,4,978.5
+16031,control,old page,Credit Cards,1,754.5
+11475,control,old page,Credit Cards,3,1014
+21287,treatment,new page,Postpaid Methods,6,240.5
+18905,treatment,new page,Apple Pay,4,3038
+15760,control,old page,Cash On Delivery (COD),1,529
+18828,treatment,new page,Apple Pay,6,1317
+15721,control,old page,Credit Cards,3,330
+14517,control,old page,Credit Cards,3,538
+18213,treatment,new page,Apple Pay,4,2000.5
+20549,treatment,new page,Cash On Delivery (COD),4,3433
+15798,control,old page,Credit Cards,1,879
+12640,control,old page,PayPal,3,663
+16368,control,old page,PayPal,1,207
+22692,treatment,new page,Apple Pay,7,1664.5
+11093,control,old page,PayPal,2,911
+11973,control,old page,Credit Cards,3,787.5
+14031,control,old page,Cash On Delivery (COD),3,244.5
+19999,treatment,new page,Postpaid Methods,6,865
+20355,treatment,new page,Postpaid Methods,7,1103.5
+12847,control,old page,Credit Cards,3,497.5
+11915,control,old page,PayPal,3,807.5
+16653,control,old page,PayPal,2,216.5
+20291,treatment,new page,Cash On Delivery (COD),4,614.5
+13384,control,old page,Cash On Delivery (COD),4,872
+12465,control,old page,Credit Cards,1,736.5
+13229,control,old page,PayPal,1,820.5
+14601,control,old page,PayPal,2,601
+20990,treatment,new page,PayPal,5,1495.5
+16886,control,old page,PayPal,2,883.5
+23417,treatment,new page,Apple Pay,6,3168
+18135,treatment,new page,Postpaid Methods,4,2751
+11766,control,old page,Cash On Delivery (COD),2,410
+11209,control,old page,Credit Cards,2,308
+14213,control,old page,PayPal,2,830
+17585,treatment,new page,Apple Pay,4,3571.5
+13759,control,old page,Cash On Delivery (COD),2,955
+19559,treatment,new page,Cash On Delivery (COD),4,3089
+23864,treatment,new page,Apple Pay,6,2764.5
+22297,treatment,new page,PayPal,6,1378.5
+18329,treatment,new page,Apple Pay,5,383
+15035,control,old page,Credit Cards,3,885.5
+21805,treatment,new page,Apple Pay,4,340.5
+20666,treatment,new page,Apple Pay,4,2848.5
+20465,treatment,new page,Apple Pay,4,3875.5
+18556,treatment,new page,Apple Pay,4,1577.5
+19740,treatment,new page,Postpaid Methods,5,1952.5
+14704,control,old page,PayPal,3,1025
+19022,treatment,new page,Postpaid Methods,6,2513.5
+19572,treatment,new page,Postpaid Methods,4,3210
+22705,treatment,new page,Apple Pay,6,550.5
+22284,treatment,new page,Credit Cards,6,227.5
+13805,control,old page,PayPal,2,286
+16504,control,old page,Cash On Delivery (COD),2,608.5
+22996,treatment,new page,PayPal,6,3428.5
+19216,treatment,new page,Postpaid Methods,6,3661
+19585,treatment,new page,Postpaid Methods,4,2564
+23734,treatment,new page,Credit Cards,6,1086
+11254,control,old page,PayPal,1,404
+13125,control,old page,Credit Cards,1,808.5
+16090,control,old page,Cash On Delivery (COD),2,742
+18873,treatment,new page,Apple Pay,5,1001
+13475,control,old page,Credit Cards,2,826.5
+23423,treatment,new page,Credit Cards,6,3802.5
+12717,control,old page,Cash On Delivery (COD),3,825.5
+15792,control,old page,PayPal,1,971.5
+21831,treatment,new page,Postpaid Methods,5,710
+19695,treatment,new page,Postpaid Methods,5,1135
+21074,treatment,new page,Apple Pay,6,188.5
+15429,control,old page,PayPal,1,621
+12374,control,old page,Cash On Delivery (COD),1,843.5
+19035,treatment,new page,Postpaid Methods,4,2278.5
+21132,treatment,new page,Apple Pay,5,969.5
+13423,control,old page,Credit Cards,2,1030
+23902,treatment,new page,Apple Pay,4,3415.5
+14944,control,old page,Cash On Delivery (COD),2,278.5
+16614,control,old page,PayPal,3,292.5
+16828,control,old page,PayPal,3,240.5
+18750,treatment,new page,Credit Cards,4,3416
+23475,treatment,new page,Postpaid Methods,5,250.5
+22006,treatment,new page,Apple Pay,6,714
+12458,control,old page,Credit Cards,3,1069
+18433,treatment,new page,Postpaid Methods,6,1337.5
+19132,treatment,new page,Postpaid Methods,5,155
+18504,treatment,new page,Apple Pay,4,369.5
+12814,control,old page,PayPal,1,618
+18789,treatment,new page,Apple Pay,6,659.5
+17669,treatment,new page,Postpaid Methods,4,1164
+15449,control,old page,Credit Cards,1,980.5
+14167,control,old page,PayPal,2,827.5
+23786,treatment,new page,PayPal,6,1362.5
+14251,control,old page,Cash On Delivery (COD),1,204
+21967,treatment,new page,Postpaid Methods,5,3805
+11792,control,old page,PayPal,2,772.5
+14064,control,old page,PayPal,2,559.5
+18226,treatment,new page,Postpaid Methods,6,3661
+13300,control,old page,Credit Cards,3,1032.5
+20148,treatment,new page,Postpaid Methods,6,3071.5
+15339,control,old page,PayPal,1,492
+21579,treatment,new page,Apple Pay,5,1518
+22439,treatment,new page,Postpaid Methods,4,1859.5
+17481,treatment,new page,Apple Pay,5,1672.5
+19145,treatment,new page,Apple Pay,5,1203.5
+14750,control,old page,Credit Cards,3,914
+20821,treatment,new page,Postpaid Methods,5,171
+11572,control,old page,Credit Cards,1,471.5
+18938,treatment,new page,Credit Cards,5,1449
+21126,treatment,new page,Apple Pay,6,2433.5
+16239,control,old page,Credit Cards,2,1089
+23650,treatment,new page,Apple Pay,4,3826
+15015,control,old page,PayPal,1,585
+22931,treatment,new page,Postpaid Methods,5,335.5
+20323,treatment,new page,PayPal,5,3607
+18368,treatment,new page,Cash On Delivery (COD),5,3172.5
+16841,control,old page,PayPal,2,402.5
+22491,treatment,new page,Apple Pay,4,3627
+18692,treatment,new page,Apple Pay,6,2796.5
+14886,control,old page,PayPal,2,827
+12077,control,old page,Cash On Delivery (COD),1,1080.5
+20880,treatment,new page,Postpaid Methods,5,2945.5
+11222,control,old page,Cash On Delivery (COD),3,430
+13488,control,old page,PayPal,3,1069
+14348,control,old page,Cash On Delivery (COD),1,1090
+18530,treatment,new page,Apple Pay,5,1631.5
+23987,treatment,new page,Postpaid Methods,5,379
+14737,control,old page,Credit Cards,3,1046
+14730,control,old page,Cash On Delivery (COD),4,280
+12769,control,old page,PayPal,3,921
+15527,control,old page,PayPal,1,155.5
+21320,treatment,new page,Postpaid Methods,5,3390
+16381,control,old page,PayPal,1,357
+11287,control,old page,Credit Cards,3,175
+13662,control,old page,Credit Cards,2,360.5
+15947,control,old page,Credit Cards,1,449
+14666,control,old page,Cash On Delivery (COD),2,907.5
+15960,control,old page,Credit Cards,2,521
+17209,control,old page,Credit Cards,1,1064
+14827,control,old page,PayPal,3,989.5
+19863,treatment,new page,Apple Pay,6,482
+16918,control,old page,PayPal,1,657.5
+12322,control,old page,Credit Cards,3,541.5
+20142,treatment,new page,Cash On Delivery (COD),6,2773.5
+17455,treatment,new page,Postpaid Methods,6,990
+21799,treatment,new page,Apple Pay,5,2963
+21999,treatment,new page,Postpaid Methods,4,718
+15313,control,old page,PayPal,1,932
+17326,control,old page,Cash On Delivery (COD),2,547.5
+16077,control,old page,Credit Cards,3,653
+17112,control,old page,Cash On Delivery (COD),3,210
+16459,control,old page,Credit Cards,1,359
+17637,treatment,new page,Cash On Delivery (COD),6,1250
+14860,control,old page,PayPal,2,193
+22427,treatment,new page,Postpaid Methods,6,1486.5
+11811,control,old page,PayPal,3,156.5
+16879,control,old page,Cash On Delivery (COD),1,1020.5
+19514,treatment,new page,Apple Pay,5,2218
+12711,control,old page,PayPal,1,253.5
+16472,control,old page,PayPal,2,999.5
+23469,treatment,new page,Postpaid Methods,5,2979.5
+18925,treatment,new page,Postpaid Methods,5,3836.5
+12737,control,old page,Cash On Delivery (COD),2,799
+21352,treatment,new page,Postpaid Methods,5,3827.5
+22174,treatment,new page,Apple Pay,5,2806.5
+12297,control,old page,Cash On Delivery (COD),3,364.5
+17572,treatment,new page,Apple Pay,6,1702.5
+19533,treatment,new page,Credit Cards,6,1542
+23598,treatment,new page,Postpaid Methods,4,1989
+21080,treatment,new page,Postpaid Methods,4,1139
+14109,control,old page,Credit Cards,1,932.5
+13624,control,old page,Credit Cards,2,200.5
+14892,control,old page,Credit Cards,2,220
+23741,treatment,new page,Postpaid Methods,6,755.5
+16400,control,old page,PayPal,1,404
+22821,treatment,new page,Postpaid Methods,7,764
+15980,control,old page,Credit Cards,1,551
+13429,control,old page,PayPal,3,306
+17546,treatment,new page,PayPal,6,1485.5
+17896,treatment,new page,Cash On Delivery (COD),6,1786
+12879,control,old page,PayPal,1,245
+19229,treatment,new page,Postpaid Methods,4,1727.5
+14452,control,old page,Credit Cards,2,969
+15455,control,old page,Credit Cards,1,473.5
+19119,treatment,new page,Apple Pay,5,998
+22122,treatment,new page,Postpaid Methods,5,1533
+14698,control,old page,PayPal,1,933.5
+13934,control,old page,Credit Cards,1,1007
+11610,control,old page,Cash On Delivery (COD),3,619
+16860,control,old page,Credit Cards,1,460.5
+20776,treatment,new page,Postpaid Methods,4,2072
+14400,control,old page,Credit Cards,1,578.5
+19404,treatment,new page,PayPal,5,1032.5
+14394,control,old page,PayPal,3,161.5
+16523,control,old page,PayPal,1,316
+20854,treatment,new page,Apple Pay,6,3562
+22698,treatment,new page,Postpaid Methods,4,450
+18601,treatment,new page,Cash On Delivery (COD),5,2275.5
+12931,control,old page,Cash On Delivery (COD),3,936.5
+23572,treatment,new page,Postpaid Methods,4,417.5
+20070,treatment,new page,Postpaid Methods,5,1950
+21158,treatment,new page,Postpaid Methods,6,3601
+19922,treatment,new page,Postpaid Methods,5,2368
+14245,control,old page,Cash On Delivery (COD),3,488.5
+13902,control,old page,Cash On Delivery (COD),3,374
+23236,treatment,new page,Apple Pay,6,3593
+19870,treatment,new page,Postpaid Methods,6,1659.5
+14426,control,old page,PayPal,3,692
+22673,treatment,new page,Apple Pay,4,3453.5
+21456,treatment,new page,Postpaid Methods,7,2305.5
+12568,control,old page,Credit Cards,3,412
+13844,control,old page,PayPal,1,1015.5
+22239,treatment,new page,Cash On Delivery (COD),6,495
+14355,control,old page,PayPal,2,1044
+19138,treatment,new page,Apple Pay,6,2452
+16983,control,old page,Credit Cards,1,912
+16510,control,old page,Credit Cards,1,861
+13552,control,old page,Credit Cards,1,399
+16601,control,old page,Cash On Delivery (COD),3,185
+13494,control,old page,Credit Cards,3,739.5
+14277,control,old page,PayPal,2,237
+21281,treatment,new page,Postpaid Methods,6,3583
+19701,treatment,new page,Apple Pay,6,1948
+20096,treatment,new page,Apple Pay,4,239.5
+11818,control,old page,PayPal,1,937
+12970,control,old page,PayPal,3,912.5
+12620,control,old page,PayPal,2,345.5
+13526,control,old page,Cash On Delivery (COD),2,571.5
+14465,control,old page,PayPal,2,907.5
+23456,treatment,new page,Postpaid Methods,5,1029
+15688,control,old page,PayPal,3,868.5
+17501,treatment,new page,Postpaid Methods,5,1255.5
+14685,control,old page,PayPal,2,950
+12187,control,old page,Credit Cards,3,186
+16607,control,old page,PayPal,3,775
+11908,control,old page,Credit Cards,3,995.5
+11410,control,old page,PayPal,1,249
+16413,control,old page,Cash On Delivery (COD),2,457.5
+18931,treatment,new page,Postpaid Methods,6,2424.5
+17591,treatment,new page,PayPal,5,242.5
+13578,control,old page,Credit Cards,1,204.5
+20193,treatment,new page,Postpaid Methods,5,2871.5
+15112,control,old page,PayPal,1,837.5
+13772,control,old page,Cash On Delivery (COD),2,403.5
+12102,control,old page,PayPal,2,1001
+23967,treatment,new page,Postpaid Methods,6,719
+12873,control,old page,PayPal,2,1083
+15106,control,old page,Cash On Delivery (COD),1,919.5
+11319,control,old page,Cash On Delivery (COD),2,299
+17676,treatment,new page,Credit Cards,5,2989
+11131,control,old page,PayPal,2,891
+17339,treatment,new page,Apple Pay,4,746.5
+22109,treatment,new page,Postpaid Methods,4,380
+13248,control,old page,PayPal,3,635
+23702,treatment,new page,Apple Pay,5,3406
+15073,control,old page,PayPal,2,343
+16802,control,old page,Credit Cards,1,496.5
+17824,treatment,new page,Cash On Delivery (COD),5,2335.5
+16659,control,old page,PayPal,2,162
+21488,treatment,new page,Apple Pay,6,1317.5
+17229,control,old page,Credit Cards,1,288
+23482,treatment,new page,Postpaid Methods,5,320
+18485,treatment,new page,Apple Pay,6,3373.5
+16536,control,old page,Cash On Delivery (COD),2,210
+15391,control,old page,Credit Cards,1,341.5
+12756,control,old page,Credit Cards,1,762.5
+17837,treatment,new page,Postpaid Methods,5,2490.5
+12633,control,old page,Credit Cards,1,388.5
+23630,treatment,new page,Apple Pay,5,1327.5
+22511,treatment,new page,Postpaid Methods,5,3266
+17514,treatment,new page,Postpaid Methods,5,2530.5
+22906,treatment,new page,Apple Pay,4,1747.5
+22258,treatment,new page,Credit Cards,6,1259.5
+21469,treatment,new page,Postpaid Methods,6,2963
+14135,control,old page,Credit Cards,1,676.5
+19540,treatment,new page,Postpaid Methods,4,2436.5
+18977,treatment,new page,Postpaid Methods,4,2771
+21540,treatment,new page,Apple Pay,5,2500.5
+22711,treatment,new page,PayPal,4,2350
+17061,control,old page,Credit Cards,3,682.5
+19773,treatment,new page,Apple Pay,5,157
+11954,control,old page,PayPal,3,382.5
+11831,control,old page,PayPal,2,312.5
+22970,treatment,new page,Postpaid Methods,6,2241
+23307,treatment,new page,Postpaid Methods,5,879.5
+18879,treatment,new page,Postpaid Methods,6,3466
+15630,control,old page,Cash On Delivery (COD),1,338.5
+19973,treatment,new page,Postpaid Methods,4,643
+19061,treatment,new page,Credit Cards,5,1063.5
+18769,treatment,new page,Apple Pay,5,1068
+19028,treatment,new page,Credit Cards,4,406
+19993,treatment,new page,Apple Pay,4,300.5
+11947,control,old page,Cash On Delivery (COD),3,265
+11856,control,old page,Cash On Delivery (COD),2,235.5
+22815,treatment,new page,Apple Pay,6,445
+17863,treatment,new page,Postpaid Methods,4,779
+18776,treatment,new page,Apple Pay,4,592.5
+12504,control,old page,Credit Cards,3,385.5
+22796,treatment,new page,Credit Cards,5,2994
+17190,control,old page,Credit Cards,3,860
+17358,treatment,new page,Postpaid Methods,6,2048.5
+17067,control,old page,Cash On Delivery (COD),2,287
+21410,treatment,new page,Cash On Delivery (COD),5,1357
+12575,control,old page,PayPal,3,565
+17203,control,old page,Cash On Delivery (COD),1,748.5
+21216,treatment,new page,Postpaid Methods,6,3818.5
+18633,treatment,new page,Postpaid Methods,4,386.5
+12070,control,old page,Credit Cards,1,375.5
+23566,treatment,new page,Cash On Delivery (COD),4,568
+18582,treatment,new page,Postpaid Methods,6,3412.5
+13863,control,old page,Cash On Delivery (COD),3,855.5
+22213,treatment,new page,Postpaid Methods,4,1890.5
+11824,control,old page,Credit Cards,1,624
+15358,control,old page,Credit Cards,3,773.5
+18375,treatment,new page,Apple Pay,4,3116
+19909,treatment,new page,Postpaid Methods,5,2574
+12497,control,old page,PayPal,1,797
+11636,control,old page,Cash On Delivery (COD),3,830
+22854,treatment,new page,Postpaid Methods,6,3159
+19345,treatment,new page,PayPal,5,1512.5
+13216,control,old page,Cash On Delivery (COD),1,487
+20770,treatment,new page,Postpaid Methods,6,3524.5
+14692,control,old page,PayPal,3,854
+17022,control,old page,Cash On Delivery (COD),1,696
+15766,control,old page,Cash On Delivery (COD),3,236
+21617,treatment,new page,Apple Pay,6,1221.5
+22083,treatment,new page,Postpaid Methods,4,172.5
+22873,treatment,new page,Postpaid Methods,4,1490.5
+19734,treatment,new page,Postpaid Methods,4,2252
+19844,treatment,new page,Postpaid Methods,5,1812.5
+19158,treatment,new page,PayPal,6,3564
+18148,treatment,new page,Postpaid Methods,4,1779.5
+13067,control,old page,PayPal,3,785.5
+11170,control,old page,Credit Cards,1,514
+23333,treatment,new page,Apple Pay,6,377.5
+13611,control,old page,Cash On Delivery (COD),3,746
+22161,treatment,new page,Credit Cards,6,3651
+14070,control,old page,Cash On Delivery (COD),1,720
+18698,treatment,new page,Postpaid Methods,6,3535
+22957,treatment,new page,Postpaid Methods,4,3804.5
+16051,control,old page,PayPal,3,568
+22867,treatment,new page,Postpaid Methods,5,3378
+16763,control,old page,Cash On Delivery (COD),1,381.5
+16866,control,old page,Credit Cards,1,799
+15895,control,old page,Credit Cards,2,587.5
