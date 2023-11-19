@@ -87,7 +87,7 @@ to determine which is more effective (depending on a specific metric).
 - **Draw valid conclusions.**
 
   To draw valid conclusions from the  results and decide what actions to take. We should compare the results with our hypothesis and see if they support or reject it. And we ensure that our 
-  final result doesn't skew by the impact of Novelty Effect and Change Aversion in which it hurts the validity of the test result. We should also consider the practical implications and 
+  final result doesn't skew by the impact of **Novelty Effect and Change Aversion** in which it hurts the validity of the test result. We should also consider the practical implications and 
   limitations of the test, such as :  the cost, time , and impact of implementing the winning version.
 
 ## Business Insights
@@ -106,12 +106,12 @@ to determine which is more effective (depending on a specific metric).
   for run the experiment for longer time in order to allow for more time for these users to cool down from any initial positive reaction or spike of interest due to a change that was introduced 
   as part of a treatment.
 
-- For Product Description Pages adjustments , the CTR and engagement time in the treatment have declined. And to ensure the validity of this result we should check the segments of the 
+- For **Product Description Pages** adjustments , the CTR and engagement time in the treatment have declined. And to ensure the validity of this result we should check the segments of the 
   new/existing users because in some cases what lead this is what called change aversion when an affectionate users engage less with the experiment as they were used to the previous way of doing 
   things and they don’t like that their workflows got disrupted. 
   Overtime, they will likely get used to the new design and re-engage with the brand again as usual.
 
   ##  References
 
-  - [A/B Testing Experimental Design Project File](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/_AB%20Testing%20Experimental%20Design.ipynb).
+  - [A/B Testing Experimental Design Project File](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/_AB%20Testing%20Experimental%20Design.ipynb)
 
