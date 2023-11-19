@@ -18,44 +18,45 @@ to determine which is more effective (depending on a specific metric).
 - [Product Description Page Engagement Time](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/Datasets/pdp_engagement_time.csv)
 - [Sign Up Conversions](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/Datasets/signup_conversions.csv)
 
-  ## Coding
+ ## Coding
 
-  -  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
+-  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
 
-   **Packeges used** 
-  * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualtion.
+   **Packeges used**
+   
+* **pandas - numby** : used for data manipulation.
+* **matplotlib - seaborn** : used for data visualtion.
 
-  ## Approaches & Methodologies
+## Approaches & Methodologies
 
-  - **Define the objective of the test.**
+- **Define the objective of the test.**
 
   This could be increasing conversion rates, increasing click rates, improving the user experience, etc.
     
-  - **Design the experiment.**
+- **Design the experiment.**
  
   Before splitting the control and treatment groups which by the way use random sampling to ensure that we eliminate bias in which the results of A/B testing will be representative of the entire  
   population. It's important when we designing our experiment to consider a few things :
 
   **The units of diversion.**
       
-    It is an iterative process to try out some decisions for unit of diversion , it could be :
+  It is an iterative process to try out some decisions for unit of diversion , it could be :
          
-    - **user_id based**: user consistency if they log in.
+   - **user_id based**: user consistency if they log in.
             
-    - **cookie-based**: user consistency if they use the same browsers and devices.
+   - **cookie-based**: user consistency if they use the same browsers and devices.
             
-    - **event-based**: least user consistency because the users may be mixed into the two groups.
+   - **event-based**: least user consistency because the users may be mixed into the two groups.
          
   **The population.**
 
   It's could be one of these :
 
-  - **Intra-user experiment**: exposing the same user to the feature being on and off over time, analyzing how they behave in different time windows.
+   - **Intra-user experiment**: exposing the same user to the feature being on and off over time, analyzing how they behave in different time windows.
 
-  - **Interleaved experiment**: for ranking type of applications, e.g. ranking or preferences, exposing the same user to the A and B side at the same time.
+   - **Interleaved experiment**: for ranking type of applications, e.g. ranking or preferences, exposing the same user to the A and B side at the same time.
 
-  - **Inter-user experiment**: A/B testing, two groups of users on the A and B side. A refinement is two cohorts of users, which match up the parameters in the two groups.
+   - **Inter-user experiment**: A/B testing, two groups of users on the A and B side. A refinement is two cohorts of users, which match up the parameters in the two groups.
  
   **The size.**
  
@@ -68,28 +69,28 @@ to determine which is more effective (depending on a specific metric).
   We also need to consider how long the experiment will be run. We must consider longer duration in order to reduce the effect of specific days or seasonality effect , and if the change
   is highly risky, then we may expose it to only a subset of the traffic, which means running the experiment for a longer time.
 
-  - **Define the hypothesis.**
+- **Define the hypothesis.**
  
-  Before we run any A/B test, we need to have a clear and specific hypothesis about what we want to test and why. In A/B testing, the null hypothesis (H0) states that there is no difference between 
-  the control and treatment groups, and observed results are purely by chance. The alternative hypothesis (Ha) states that there is a significant difference between the control and test treatment 
-  groups.
+  Before we run any A/B test, we need to have a clear and specific hypothesis about what we want to test and why. In A/B testing, the null hypothesis (H0) states that there is no difference 
+  between the control and treatment groups, and observed results are purely by chance. The alternative hypothesis (Ha) states that there is a significant difference between the control and test 
+  treatment groups.
 
-  - **Run the experiment**
+- **Run the experiment**
 
-    We should run your experiment long enough until we reach the desired sample size and duration, and avoid making any changes or interruptions during the experiment.
+  We should run your experiment long enough until we reach the desired sample size and duration, and avoid making any changes or interruptions during the experiment.
     
-  - **Analyzing the results**.
+- **Analyzing the results**.
 
   After run the experiment and collect the data , it is important to analyze the results of the A/B testing carefully and to use statistical techniques to determine whether the results are 
   statistically significant. We should also look for any patterns, trends, or anomalies in the data that may explain the results.
 
-  - **Draw valid conclusions.**
+- **Draw valid conclusions.**
 
-  To draw valid conclusions from the  results and decide what actions to take. We should compare the results with our hypothesis and see if they support or reject it. And we ensure that our final 
-  result doesn't skew by the impact of Novelty Effect and Change Aversion in which it hurts the validity of the test result. We should also consider the practical implications and limitations of 
-  the test, such as :  the cost, time , and impact of implementing the winning version.
+  To draw valid conclusions from the  results and decide what actions to take. We should compare the results with our hypothesis and see if they support or reject it. And we ensure that our 
+  final result doesn't skew by the impact of Novelty Effect and Change Aversion in which it hurts the validity of the test result. We should also consider the practical implications and 
+  limitations of the test, such as :  the cost, time , and impact of implementing the winning version.
 
-  ## Business Insights
+## Business Insights
 
 - For **The Sign Up Banner** adjustments , we faced some problems in concluding the final result of the test due to the A/B test setting improperly that led us to raise the level of significance 
   and re-do the test again in order to gain accurate results. Even though a 2% increment in the conversion rate of the sign up has a positive impact , in this particular case it might have 
