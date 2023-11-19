@@ -91,5 +91,26 @@ to determine which is more effective (depending on a specific metric).
 
   ## Business Insights
 
-- 
-  
+- For **The Sign Up Banner** adjustments , we faced some problems in concluding the final result of the test due to the A/B test setting improperly that led us to raise the level of significance 
+  and re-do the test again in order to gain accurate results. Even though a 2% increment in the conversion rate of the sign up has a positive impact , in this particular case it might have 
+  happened due to the random chance. Moreover , it is not the desired effect size the business was looking for which is 5% , and definitely not when the first test result itself is doutable.
+
+- For **The Homepage** adjustments , 6% uplift in the click-through-rate is a good difference to consider , especially when the experiment ran for 2 weeks. Therefore , we can say that the new 
+  homepage design helped in improving the CTR more than the old , in which it's very unlikely that the difference happened due to pure chance alone. Also ,  we observed that these changes to the 
+  homepage helped in slightly making the visitors more engaging for 50 seconds on the average and that's a sign of positive reaction toward the new design.
+
+
+- For **Introducing More Payment Options** , most of the treatment users used the postpaid methods and ignored the other payment options , and that maybe what called the novelty effect in which 
+  the users interact with the feature just because it’s new rather than the legitimate user interaction during an A/B test.and this of course would skew test results , in this cases it's better 
+  for run the experiment for longer time in order to allow for more time for these users to cool down from any initial positive reaction or spike of interest due to a change that was introduced 
+  as part of a treatment.
+
+- For Product Description Pages adjustments , the CTR and engagement time in the treatment have declined. And to ensure the validity of this result we should check the segments of the 
+  new/existing users because in some cases what lead this is what called change aversion when an affectionate users engage less with the experiment as they were used to the previous way of doing 
+  things and they don’t like that their workflows got disrupted. 
+  Overtime, they will likely get used to the new design and re-engage with the brand again as usual.
+
+  ##  References
+
+  - [A/B Testing Experimental Design Project File](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/_AB%20Testing%20Experimental%20Design.ipynb).
+
