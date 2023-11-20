@@ -7,7 +7,7 @@
 Through the birth of the internet, A/B testing went digital. Today, it’s used to compare two versions of an app, a website, or even things like newsletters and email subject lines 
 to determine which is more effective (depending on a specific metric).
 
-## About the dataset
+## About The Dataset
 
 *All the datasets stored as CSV file and can be accessed through this links :*
 
