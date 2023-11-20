@@ -92,7 +92,7 @@ to determine which is more effective (depending on a specific metric).
 
 ## Business Insights
 
-- For **The Sign Up Banner** adjustments , we faced some problems in concluding the final result of the test due to the A/B test setting improperly that led us to raise the level of significance 
+- For **The Sign Up Banner** adjustments , we faced some problems in concluding the final result of the test that led us to raise the level of significance 
   and re-do the test again in order to gain accurate results. Even though a 2% increment in the conversion rate of the sign up has a positive impact , in this particular case it might have 
   happened due to the random chance. Moreover , it is not the desired effect size the business was looking for which is 5% , and definitely not when the first test result itself is doutable.
 
