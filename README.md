@@ -113,5 +113,5 @@ to determine which is more effective (depending on a specific metric).
 
   ##  References
 
-  - [A/B Testing Experimental Design Project File](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/_AB%20Testing%20Experimental%20Design.ipynb)
+  - [A/B Testing Experimental Design IPYNB File](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/_AB%20Testing%20Experimental%20Design.ipynb)
 
