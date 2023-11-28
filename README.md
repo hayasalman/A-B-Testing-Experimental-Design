@@ -32,7 +32,7 @@ We need to set up our local environment to programming using python , here :
 
    To check for the Python packages : ```conda list```
 
-- Download Python packages in Anaconda Terminal (we can use pip or conda interchangeably)
+- Download Python packages in Anaconda Terminal (we can use pip or conda interchangeably).
 
   ```pip install pandas```
 
