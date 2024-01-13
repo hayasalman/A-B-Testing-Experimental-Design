@@ -1,6 +1,7 @@
 ## A/B Testing Experimental Design
 
-![AB_test.png](attachment:AB_test.png)
+
+![AB_test](https://github.com/hayasalman/A-B-Testing-Experimental-Design/assets/71796909/3c9ed090-1de6-4c33-aeee-b9dbaf585696)
 
 ## Overview
 
@@ -21,7 +22,7 @@ to determine which is more effective (depending on a specific metric).
 
   **The units of diversion.**
       
-  It is an iterative process to try out some decisions for unit of diversion , it could be :
+  It is an iterative process to try out some decisions for unit of diversion, it could be :
          
    - **user_id based**: user consistency if they log in.
             
@@ -94,4 +95,4 @@ to determine which is more effective (depending on a specific metric).
 
  ##  References
 
-  - [A/B Testing Experimental Design IPYNB File]()
+  - [A/B Testing Experimental Design IPYNB File](https://github.com/hayasalman/e-commerce-website-ab-test/blob/main/_AB%20Testing%20Experimental%20Design.ipynb)
